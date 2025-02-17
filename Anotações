@@ -1,7 +1,15 @@
 IDE: Integrated Development Environment
 ASP: Active Server Pages
 
--- RAZOR / BLAZOR
+-- RAZOR / BLAZOR --
 
-ORM: Object Relation Mapping
+ORM: Object Relation Mapping;
 
+Aplicação WEB: 
+- Opera em uma arquitetura Client / Server, sendo o cliente a máquina que está entrando na aplicação e o Server vai ser uma máquina que vai estar rodando a aplicação;
+
+DNS: Domain Name System;
+HTTP / HTTPS: Hyper Text Transfer Protocol (Secure);
+HTML: HyperText Markup Language;
+
+Hyper text pode ser: imagem, texto e etc que está vinculado a um tipo de recurso
