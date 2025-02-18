@@ -1,7 +1,7 @@
-A Ciência da Computação é a única que é exclusiva
+A Ciência da Computação é a única que é exclusiva para ajudar outras áreas;
 
-IDE: Integrated Development Environment
-ASP: Active Server Pages
+IDE: Integrated Development Environment;
+ASP: Active Server Pages;
 
 -- RAZOR / BLAZOR --
 
@@ -20,4 +20,3 @@ MCV: Model View Controller - Arquitetura (Foi o tipo de projeto que criamos com 
 -> Model: Especifica os dados que compõem o modelo do APP;
 -> View: A UI (User Interface);
 -> Controller: Responde aos comandos da aplicação;
-
