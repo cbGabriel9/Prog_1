@@ -1,3 +1,5 @@
+A Ciência da Computação é a única que é exclusiva
+
 IDE: Integrated Development Environment
 ASP: Active Server Pages
 
@@ -12,4 +14,10 @@ DNS: Domain Name System;
 HTTP / HTTPS: Hyper Text Transfer Protocol (Secure);
 HTML: HyperText Markup Language;
 
-Hyper text pode ser: imagem, texto e etc que está vinculado a um tipo de recurso
+Hyper text pode ser: imagem, texto e etc que está vinculado a um tipo de recurso;
+
+MCV: Model View Controller - Arquitetura (Foi o tipo de projeto que criamos com o .NET);
+-> Model: Especifica os dados que compõem o modelo do APP;
+-> View: A UI (User Interface);
+-> Controller: Responde aos comandos da aplicação;
+
