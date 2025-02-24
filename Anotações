@@ -16,6 +16,11 @@ HTML: HyperText Markup Language;
 
 Hyper text pode ser: imagem, texto e etc que está vinculado a um tipo de recurso;
 
+-----------------------VISUAL STUDIO-----------------------
+
+Ctrl + Alt + L : Abrir gerenciador de soluções
+
+-----------------------------------------------------------
 MCV: Model View Controller - Arquitetura (Foi o tipo de projeto que criamos com o .NET);
 -> Model: Especifica os dados que compõem o modelo do APP;
 -> View: A UI (User Interface);
