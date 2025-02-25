@@ -1,8 +1,63 @@
-﻿@{
+﻿@model Variaveis 
+
+@{
     ViewData["Title"] = "Home Page";
 }
 
 <div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+    <h1 class="display-4">Bem-Vindos</h1>
+    @* <p>
+        O valor de <b>UserCount</b> é: <i>@Model.userCount</i>
+    </p>
+
+    <p>
+        O valor de <b>TotalCount</b> é: <i>@Model.totalCount</i>
+    </p> *@
+    
+    <h2>Valores máximos e mínimos nos Tipos Numéricos</h2>
+
+
+    <h3>Byte</h3>
+    <p>
+        O valor mínimo de caracteres é: <i>@Model.minByte</i><br />
+        O valor máximo de caracteres é: <i>@Model.maxByte</i>
+    </p>
+
+    <h3>Sbyte</h3>
+    <p>
+        O valor mínimo de caracteres é: <i>@Model.minSbyte</i><br />
+        O valor máximo de caracteres é: <i>@Model.maxSbyte</i>
+    </p>
+
+    <h3>Short</h3>
+    <p>
+        O valor mínimo de caracteres é: <i>@Model.minShort</i><br />
+        O valor máximo de caracteres é: <i>@Model.maxShort</i>
+    </p>
+
+    <h3>Ushort</h3>
+    <p>
+        O valor mínimo de caracteres é: <i>@Model.minUshort</i><br />
+        O valor máximo de caracteres é: <i>@Model.maxUshort</i>
+    </p>
+
+    <h3>Int</h3>
+    <p>
+        O valor mínimo de caracteres é: <i>@Model.minInt</i><br />
+        O valor máximo de caracteres é: <i>@Model.maxInt</i>
+    </p>
+
+    <h3>Uint</h3>
+    <p>
+        O valor mínimo de caracteres é: <i>@Model.minUint</i><br />
+        O valor máximo de caracteres é: <i>@Model.maxUint</i>
+    </p>
+
+    <h3>Long</h3>
+    <p>
+        O valor mínimo de caracteres é: <i>@Model.minLong</i><br />
+        O valor máximo de caracteres é: <i>@Model.maxLong</i>
+    </p>
+
+
 </div>

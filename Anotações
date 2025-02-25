@@ -19,9 +19,23 @@ Hyper text pode ser: imagem, texto e etc que está vinculado a um tipo de recurs
 -----------------------VISUAL STUDIO-----------------------
 
 Ctrl + Alt + L : Abrir gerenciador de soluções
+Shift + Alt + Enter: Tela cheia
+
+-----------------------------------------------------------
+------------------------POWER SHELL------------------------
+
+git remote -v: Ver os repositórios remotos
+git remote add origin link: Puxar o repositório remoto para local
 
 -----------------------------------------------------------
 MCV: Model View Controller - Arquitetura (Foi o tipo de projeto que criamos com o .NET);
 -> Model: Especifica os dados que compõem o modelo do APP;
 -> View: A UI (User Interface);
 -> Controller: Responde aos comandos da aplicação;
+
+var: variável do tipo implícito, onde não determina o tipo da variável. Ele pode se tornar tipo inteiro, string, uma função, um objeto ou algo mais complexo.
+ 
+Lembrar de colocar o @model no index css para mostrar o tipo dos dados que vão ser recebido na web
+
+Atividade 1: Com base no exemplo feito em laboratório, com os tipos inteiros nas variáveis totalCount e userCount que foram exibidos em tela no Home/Index, contidos na classe Variáveis faça:
+Na página 47 do livro é possível acessar os valores mínimos e máximos para os demais tipos númericos. Edite a classe Variáveis, crie novos atributos a ela e armazena os valores Min e Max de cada tipo numérico para em seguida exibir em tela no Home/Index
