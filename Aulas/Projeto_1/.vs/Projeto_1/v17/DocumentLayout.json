@@ -42,8 +42,7 @@
               "RelativeToolTip": "Projeto_1\\Views\\Teste\\Teste.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-11T00:21:10.281Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-11T00:21:10.281Z"
             },
             {
               "$type": "Document",
@@ -55,8 +54,7 @@
               "RelativeToolTip": "Projeto_1\\Views\\Teste\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-11T00:20:29.963Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-11T00:20:29.963Z"
             },
             {
               "$type": "Document",
@@ -66,7 +64,7 @@
               "RelativeDocumentMoniker": "Projeto_1\\Controllers\\TesteController.cs",
               "ToolTip": "C:\\Prog_1\\Aulas\\Projeto_1\\Projeto_1\\Controllers\\TesteController.cs",
               "RelativeToolTip": "Projeto_1\\Controllers\\TesteController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBcAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-10T23:33:56.841Z",
               "EditorCaption": ""
@@ -81,8 +79,7 @@
               "RelativeToolTip": "Projeto_1\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T23:32:54.225Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-10T23:32:54.225Z"
             }
           ]
         }
