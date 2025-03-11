@@ -2,9 +2,11 @@
   "ExpandedNodes": [
     "",
     "\\Projeto_1",
+    "\\Projeto_1\\Controllers",
     "\\Projeto_1\\Models",
-    "\\Projeto_1\\Views"
+    "\\Projeto_1\\Views",
+    "\\Projeto_1\\Views\\Teste"
   ],
-  "SelectedNode": "\\Projeto_1\\Views\\_ViewImports.cshtml",
+  "SelectedNode": "\\Projeto_1\\Controllers\\HomeController.cs",
   "PreviewInSolutionExplorer": false
 }

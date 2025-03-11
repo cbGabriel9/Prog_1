@@ -39,3 +39,36 @@ Lembrar de colocar o @model no index css para mostrar o tipo dos dados que vão 
 
 Atividade 1: Com base no exemplo feito em laboratório, com os tipos inteiros nas variáveis totalCount e userCount que foram exibidos em tela no Home/Index, contidos na classe Variáveis faça:
 Na página 47 do livro é possível acessar os valores mínimos e máximos para os demais tipos númericos. Edite a classe Variáveis, crie novos atributos a ela e armazena os valores Min e Max de cada tipo numérico para em seguida exibir em tela no Home/Index
+
+------------------------Aplicações WEB------------------------
+
+Protocolo: Forma de comunicação de dados;
+
+Todas as aplicações WEB utilizam o protocolo HTTP e algumas o HTTPS (HTTPS é uma versão segura do HTTP, e ele utiliza o HTTP como base). HTTP é stateless e segue o padrão "requisição-resposta". Foram desenvolvidos pelo IETF e o W3C. A versão atual é HTTP/2 e foi padronizada em 2015, sendo suportado pela maioria dos navegadores. Sendo binário, totalmente multiplexado, cabeçalho comprimido para reduzir pacotes.
+
+Web app: É um sistema dinâmico, possui interatividade com o usuário, utiliza banco de dados.
+
+Website: Página estática, exibe imagem, texto, vídeo. Não tem interação com o banco de dados, não possui dinamicidade.
+
+Encriptação Simétrica: Método convencional para garantir integridade dos dados transferidos. Faz uso de uma única chave secreta "Symmetric Key" para criptografar e descriptografar a mensagem, onde apenas o remetente e o destinatário possuem esta chave.
+
+Encriptação Assimétrica: Utiliza duas chaves: Pública e privada. A pública codifica e a privada descodifica.
+
+Request-Responde: Baseado em Cliente-Server. Servidor é um computador que recebe requisições de um cliente e os serve. Tipicamente um computador parrduo com memória e processdor suficiente para atender a demandas dos clientes (usuários).
+
+Stateless: Não armazena aos estados servidas e recebidas anteriormente, não possui um histórico.
+
+Cliente pode ser um navegador, servidor pode ser seu computador.
+
+Um bom exemplo é o front end (Cliente) e back end (Servidor).
+
+Verbos HTTP:
+
+- GET: Buscar recursos, acessar cache;
+- POST: Criar um novo recurso;
+- PUT/PATCH: Atualizar um recurso existente;
+- DELETE: Remover um recurso.
+
+Atividade 2: Pegar o algoritmo de Cesar e criptografar a mensagem.
+
+

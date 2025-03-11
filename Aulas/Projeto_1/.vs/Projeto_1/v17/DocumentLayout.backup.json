@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Prog_1\\Aulas\\Projeto_1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E64B4ED9-1A5A-48B9-A14C-78A83B11973C}|Projeto_1\\Projeto_1.csproj|c:\\prog_1\\aulas\\projeto_1\\projeto_1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E64B4ED9-1A5A-48B9-A14C-78A83B11973C}|Projeto_1\\Projeto_1.csproj|solutionrelative:projeto_1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E64B4ED9-1A5A-48B9-A14C-78A83B11973C}|Projeto_1\\Projeto_1.csproj|c:\\prog_1\\aulas\\projeto_1\\projeto_1\\views\\teste\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E64B4ED9-1A5A-48B9-A14C-78A83B11973C}|Projeto_1\\Projeto_1.csproj|solutionrelative:projeto_1\\views\\teste\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E64B4ED9-1A5A-48B9-A14C-78A83B11973C}|Projeto_1\\Projeto_1.csproj|c:\\prog_1\\aulas\\projeto_1\\projeto_1\\models\\variaveis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E64B4ED9-1A5A-48B9-A14C-78A83B11973C}|Projeto_1\\Projeto_1.csproj|solutionrelative:projeto_1\\models\\variaveis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E64B4ED9-1A5A-48B9-A14C-78A83B11973C}|Projeto_1\\Projeto_1.csproj|c:\\prog_1\\aulas\\projeto_1\\projeto_1\\controllers\\testecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E64B4ED9-1A5A-48B9-A14C-78A83B11973C}|Projeto_1\\Projeto_1.csproj|solutionrelative:projeto_1\\controllers\\testecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E64B4ED9-1A5A-48B9-A14C-78A83B11973C}|Projeto_1\\Projeto_1.csproj|c:\\prog_1\\aulas\\projeto_1\\projeto_1\\views\\teste\\teste.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E64B4ED9-1A5A-48B9-A14C-78A83B11973C}|Projeto_1\\Projeto_1.csproj|solutionrelative:projeto_1\\views\\teste\\teste.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E64B4ED9-1A5A-48B9-A14C-78A83B11973C}|Projeto_1\\Projeto_1.csproj|c:\\prog_1\\aulas\\projeto_1\\projeto_1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,41 +34,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Prog_1\\Aulas\\Projeto_1\\Projeto_1\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Projeto_1\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Prog_1\\Aulas\\Projeto_1\\Projeto_1\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Projeto_1\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Teste.cshtml",
+              "DocumentMoniker": "C:\\Prog_1\\Aulas\\Projeto_1\\Projeto_1\\Views\\Teste\\Teste.cshtml",
+              "RelativeDocumentMoniker": "Projeto_1\\Views\\Teste\\Teste.cshtml",
+              "ToolTip": "C:\\Prog_1\\Aulas\\Projeto_1\\Projeto_1\\Views\\Teste\\Teste.cshtml",
+              "RelativeToolTip": "Projeto_1\\Views\\Teste\\Teste.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-25T00:25:17.6Z",
+              "WhenOpened": "2025-03-11T00:21:10.281Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Prog_1\\Aulas\\Projeto_1\\Projeto_1\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Projeto_1\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Prog_1\\Aulas\\Projeto_1\\Projeto_1\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Projeto_1\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T00:20:14.883Z",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Prog_1\\Aulas\\Projeto_1\\Projeto_1\\Views\\Teste\\Index.cshtml",
+              "RelativeDocumentMoniker": "Projeto_1\\Views\\Teste\\Index.cshtml",
+              "ToolTip": "C:\\Prog_1\\Aulas\\Projeto_1\\Projeto_1\\Views\\Teste\\Index.cshtml",
+              "RelativeToolTip": "Projeto_1\\Views\\Teste\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-11T00:20:29.963Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Variaveis.cs",
-              "DocumentMoniker": "C:\\Prog_1\\Aulas\\Projeto_1\\Projeto_1\\Models\\Variaveis.cs",
-              "RelativeDocumentMoniker": "Projeto_1\\Models\\Variaveis.cs",
-              "ToolTip": "C:\\Prog_1\\Aulas\\Projeto_1\\Projeto_1\\Models\\Variaveis.cs",
-              "RelativeToolTip": "Projeto_1\\Models\\Variaveis.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAoAAAAAAAAAA==",
+              "Title": "TesteController.cs",
+              "DocumentMoniker": "C:\\Prog_1\\Aulas\\Projeto_1\\Projeto_1\\Controllers\\TesteController.cs",
+              "RelativeDocumentMoniker": "Projeto_1\\Controllers\\TesteController.cs",
+              "ToolTip": "C:\\Prog_1\\Aulas\\Projeto_1\\Projeto_1\\Controllers\\TesteController.cs",
+              "RelativeToolTip": "Projeto_1\\Controllers\\TesteController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T23:22:01.931Z",
+              "WhenOpened": "2025-03-10T23:33:56.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Prog_1\\Aulas\\Projeto_1\\Projeto_1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Projeto_1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Prog_1\\Aulas\\Projeto_1\\Projeto_1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Projeto_1\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T23:32:54.225Z",
               "EditorCaption": ""
             }
           ]
