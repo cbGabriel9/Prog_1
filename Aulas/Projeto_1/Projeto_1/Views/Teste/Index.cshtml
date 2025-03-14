@@ -3,9 +3,9 @@
 @{
 }
 
-<h1>CONTROLLER: Test</h1>
+<!--h1>CONTROLLER: Test</h1>
 <h2>Método Index</h2>
-<h3>View Index</h3>
+<h3>View Index</h3> -->
  
 <hr />
 
@@ -13,16 +13,30 @@
     asp-action="Index"
     asp-controller="Teste">
 
+    <h2>Codificacao de César (Cifra de César)</h2>
+
+    <h3>Defina a distância das letras:</h3>
+    <input type="number" name="n"/>
+
+    <h3>Digite a palavra:</h3>
     <input type="text" id="texto" name="texto" />
     <input type="submit" value="Postar"/>
 </form>
 
 <hr />
 
-@if(!string.IsNullOrEmpty(Model.Texto))
-{
-    <div>
-        <span>Texto convertido: </span>
-        <strong>@Model.Texto</strong>
-    </div>
-}
+<!-- Exibe o texto original -->
+<h4>Texto Original:</h4>
+<p>@Model.Texto</p>
+
+<!-- Exibe a palavra codificada -->
+<h4>Palavra Codificada(@Model.Passo): </h4>
+    @if (Model.palavraCodificada != null && Model.palavraCodificada.Any())
+    {   
+        // Aqui eu converto minha list em string, passando dois argumentos, o separador "" e a list ao lado
+        <p><strong>@string.Join("", Model.palavraCodificada)</strong></p>
+    }
+    else
+    {
+        <li>Nenhum caractere válido encontrado.</li>
+    }
