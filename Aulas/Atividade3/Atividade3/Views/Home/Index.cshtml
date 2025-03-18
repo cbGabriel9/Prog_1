@@ -1,0 +1,17 @@
+﻿@model Atividade3.Controllers.ChequeController.Result
+
+@{
+}
+
+<h1>Conversão de Cheque</h1>
+
+<form method="POST"
+    asp-action="Converter"
+    asp-controller="Cheque"
+>
+
+<h2>Digite o número:</h2>
+<input type="number" value="converter" name="numero_cheque"/>
+</form>
+
+@* <p>@Model.numeroOriginal</p> Estou com erro aqui *@
