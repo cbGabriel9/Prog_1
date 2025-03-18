@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Prog_1\\Aulas\\Aula02\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7ED5F357-D60D-4CD6-80C8-7B17FE959F10}|Aula02\\Aula02.csproj|c:\\prog_1\\aulas\\aula02\\aula02\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7ED5F357-D60D-4CD6-80C8-7B17FE959F10}|Aula02\\Aula02.csproj|solutionrelative:aula02\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7ED5F357-D60D-4CD6-80C8-7B17FE959F10}|Aula02\\Aula02.csproj|c:\\prog_1\\aulas\\aula02\\aula02\\models\\typecasting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ED5F357-D60D-4CD6-80C8-7B17FE959F10}|Aula02\\Aula02.csproj|solutionrelative:aula02\\models\\typecasting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7ED5F357-D60D-4CD6-80C8-7B17FE959F10}|Aula02\\Aula02.csproj|c:\\prog_1\\aulas\\aula02\\aula02\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -13,6 +13,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{7ED5F357-D60D-4CD6-80C8-7B17FE959F10}|Aula02\\Aula02.csproj|c:\\prog_1\\aulas\\aula02\\aula02\\models\\datatype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7ED5F357-D60D-4CD6-80C8-7B17FE959F10}|Aula02\\Aula02.csproj|solutionrelative:aula02\\models\\datatype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ED5F357-D60D-4CD6-80C8-7B17FE959F10}|Aula02\\Aula02.csproj|c:\\prog_1\\aulas\\aula02\\aula02\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ED5F357-D60D-4CD6-80C8-7B17FE959F10}|Aula02\\Aula02.csproj|solutionrelative:aula02\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,11 +26,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TypeCasting.cs",
+              "DocumentMoniker": "C:\\Prog_1\\Aulas\\Aula02\\Aula02\\Models\\TypeCasting.cs",
+              "RelativeDocumentMoniker": "Aula02\\Models\\TypeCasting.cs",
+              "ToolTip": "C:\\Prog_1\\Aulas\\Aula02\\Aula02\\Models\\TypeCasting.cs",
+              "RelativeToolTip": "Aula02\\Models\\TypeCasting.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T23:32:28.11Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -36,20 +53,20 @@
               "RelativeDocumentMoniker": "Aula02\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Prog_1\\Aulas\\Aula02\\Aula02\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Aula02\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACQAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-03-17T22:47:54.078Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Prog_1\\Aulas\\Aula02\\Aula02\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Aula02\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Prog_1\\Aulas\\Aula02\\Aula02\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Aula02\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-17T22:44:58.724Z",
               "EditorCaption": ""
@@ -62,7 +79,7 @@
               "RelativeDocumentMoniker": "Aula02\\Models\\DataType.cs",
               "ToolTip": "C:\\Prog_1\\Aulas\\Aula02\\Aula02\\Models\\DataType.cs",
               "RelativeToolTip": "Aula02\\Models\\DataType.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBsAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-17T22:34:45.215Z",
               "EditorCaption": ""

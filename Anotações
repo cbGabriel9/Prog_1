@@ -74,6 +74,6 @@ Atividade 2: Pegar o algoritmo de Cesar e criptografar a mensagem.
 Aspas simples: Para caracteres
 Aspas duplas: String
 
+Alt + Shift + . = Seleciona as mesmas palavras uma por uma pra baixo
 
-
-
+Não pode usar interpolação nas declarações de variáveis, então precisa utiliza no método construtor

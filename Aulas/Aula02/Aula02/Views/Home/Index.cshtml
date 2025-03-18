@@ -4,7 +4,7 @@
     ViewData["Title"] = "Home Page";
 }
 
-<table>
+<table class="table table-bordered table-responsive table-hover table-dark table-striped">
     <thead>
         <tr>
             <th>Variável</th>
@@ -12,9 +12,40 @@
         </tr>
     </thead>
 
-    <tbody>
+    <tbody border="1">
         <tr>
+            <td>myVar</td>
+            <td>@Model.myVar</td>
+        </tr>
 
+        <tr>
+            <td>myConst</td>
+            <td>@Model.myConst</td>
+        </tr>
+
+        <tr>
+            <td>myChar2</td>
+            <td>@Model.myChar2</td>
+        </tr>
+
+        <tr>
+            <td>myChar3</td>
+            <td>@Model.myChar3</td>
+        </tr>
+
+        <tr>
+            <td>myChar4</td>
+            <td>@Model.myChar4 </td>
+        </tr>
+
+        <tr>
+            <td>textLine</td>
+            <td>@Model.textline </td>
+        </tr>
+
+        <tr>
+            <td>Message</td>
+            <td>@Model.message</td>
         </tr>
     </tbody>
 </table>
