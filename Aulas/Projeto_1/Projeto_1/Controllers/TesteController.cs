@@ -5,7 +5,7 @@ namespace Projeto_1.Controllers
 {
 	public class Result
 	{
-		// Aqui eu preciso criar as variáveis que serão passadas para a página html como o resultado, por isso o nome "result"
+		// Aqui eu preciso criar as variáveis que serão passadas para a página html como o resultado da acao do c#, por isso o nome "result"
 		public string? Texto { get; set; }
 		public int? Passo { get; set; }
 		public List<char>? palavraCodificada { get; set; }

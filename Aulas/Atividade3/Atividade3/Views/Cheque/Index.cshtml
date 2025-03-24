@@ -1,0 +1,27 @@
+﻿@model Atividade3.Controllers.Result;
+
+@{
+}
+
+<h1>Conversão de Cheque</h1>
+
+<form method="POST"
+      asp-action="Converter"
+      asp-controller="Cheque">
+    <h2>Digite o número:</h2>
+    <input type="number" name="numero_original" />
+
+    <input type="submit" value="iniciar">
+</form>
+
+@if (Model.numeroOriginal != null)
+{
+    <h2>Número Original</h2>
+    <p>@Model.numeroOriginal</p>
+
+    <h2>Número Escrito por Extenso</h2>
+    <p>@Model.numeroExtenso</p>
+}
+else
+{
+}

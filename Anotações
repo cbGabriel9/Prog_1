@@ -76,6 +76,6 @@ Aspas duplas: String
 
 Alt + Shift + . = Seleciona as mesmas palavras uma por uma pra baixo
 
-Não pode usar interpolação nas declarações de variáveis, então precisa utiliza no método construtor
+Não pode usar interpolação nas declarações de variáveis, então precisa utilizar no método construtor
 
 Atividade 3: Crie um novo projeto ASP.NET Core Web MVC para fazer a leitura de uma entrada de dados numérica e ser capaz de devolver à tela do usuário o número informado escrito por extenso. Lembre-se de verificar se trata-se de uma unidade, dezena, centa e milhar.
