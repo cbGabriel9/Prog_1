@@ -1,0 +1,20 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div>
+    <form method="GET"
+          asp-action="DiaDaSemana"
+          asp-controller="Home">
+        <div class="form-group">
+            <h1>Verificar o Dia da Semana</h1>
+
+            <label for="DiaDaSemana">Digite o número:</label>
+            <input type="text" name="x" id="DiaDaSemana">
+
+            <button type="submit">Verificar</button>
+        </div>
+    </form>
+
+
+</div>
