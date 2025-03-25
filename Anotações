@@ -79,3 +79,15 @@ Alt + Shift + . = Seleciona as mesmas palavras uma por uma pra baixo
 Não pode usar interpolação nas declarações de variáveis, então precisa utilizar no método construtor
 
 Atividade 3: Crie um novo projeto ASP.NET Core Web MVC para fazer a leitura de uma entrada de dados numérica e ser capaz de devolver à tela do usuário o número informado escrito por extenso. Lembre-se de verificar se trata-se de uma unidade, dezena, centa e milhar.
+
+View > Controller > Model (Sendo model o centro da arquitetura MVC)
+
+GUI: Guide User Interface
+UI: User Interface
+UX: User Experience
+
+Debuggar:
+
+Escolher ponto de parada;
+Clicar F10 para ele ir executando próxima linha;
+Clicar F5 para ir até o fim do código.

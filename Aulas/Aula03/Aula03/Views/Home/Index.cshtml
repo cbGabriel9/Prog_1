@@ -1,0 +1,18 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div>
+    <form method="GET"
+        asp-action="GetFor"
+        asp-controller="Home">
+        <div class="form-group">
+            <label for="xDoFor">Valor de x:</label>
+            <input type="text" name="x" id="xDoFor">
+
+            <button type="submit">GetFor</button>
+        </div>
+    </form>
+
+    
+</div>
