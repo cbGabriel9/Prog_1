@@ -95,9 +95,9 @@ namespace Atividade3.Controllers
                             pilhaParaOrdenarString.Push(" bilhões, ");
                             pilhaParaOrdenarString.Push(numeros[linha, coluna]);
                         }
-                        else if (num != 0)
+                        else if (num == 0)
                         {
-                            pilhaParaOrdenarString.Push(numeros[linha, coluna]);
+                          
                         }
                     }
 
