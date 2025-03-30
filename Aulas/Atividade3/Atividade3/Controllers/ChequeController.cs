@@ -6,6 +6,7 @@ namespace Atividade3.Controllers
     public class Result
     {
         public string? numeroOriginal { get; set; }
+        public int? volta { get; set; }
         public string? numeroExtenso { get; set; }
     }
 
@@ -61,45 +62,71 @@ namespace Atividade3.Controllers
             foreach (char num in numero_original)
             {
                 pilhaParaOrdenarChar.Push(num);
-            };
+            }
+            ;
 
             // Fazer com que num_invertido receba os itens da pilha, agora com a sequência ivnertida
             while (pilhaParaOrdenarChar.Count > 0)
             {
                 num_invertido += pilhaParaOrdenarChar.Pop();
-            };
+            }
+            ;
 
             foreach (char num in num_invertido)
             {
                 coluna = (int)char.GetNumericValue(num);
 
-                    if (linha >= 0 && linha < 3 && coluna >= 0 && coluna < 10)
+                if (linha >= 0 && linha < 3 && coluna >= 0 && coluna < 10)
+                {
+                    if (num != '0' && volta != 4 && volta != 7 && volta != 11)
                     {
-                        if(num != '0' && volta < 4)
-                        {
-                            pilhaParaOrdenarString.Push(" e ");
-                            pilhaParaOrdenarString.Push(numeros[linha, coluna]);
-
-                        } else if (num != '0' && volta == 4)
-                        {
-                            pilhaParaOrdenarString.Push(" mil, ");
-                            pilhaParaOrdenarString.Push(numeros[linha, coluna]);
-                        }
-                        else if (num != '0' && volta == 8)
-                        {
-                            pilhaParaOrdenarString.Push(" milhões, ");
-                            pilhaParaOrdenarString.Push(numeros[linha, coluna]);
-                        }
-                        else if (num != '0' && volta == 12)
-                        {
-                            pilhaParaOrdenarString.Push(" bilhões, ");
-                            pilhaParaOrdenarString.Push(numeros[linha, coluna]);
-                        }
-                        else if (num == 0)
-                        {
-                          
-                        }
+                        pilhaParaOrdenarString.Push(" e ");
+                        pilhaParaOrdenarString.Push(numeros[linha, coluna]);
                     }
+                    else if (volta == 4)
+                    {
+                        if (num != '0')
+                        {
+                            pilhaParaOrdenarString.Push(" mil e ");
+                            pilhaParaOrdenarString.Push(numeros[linha, coluna]);
+                        }
+                        else
+                        {
+                            pilhaParaOrdenarString.Push(" mil e ");
+                        }
+                        
+                    }
+                    else if ( volta == 7)
+                    {
+                        if (num!= '0')
+                        {
+                            pilhaParaOrdenarString.Push(" milhões e ");
+                            pilhaParaOrdenarString.Push(numeros[linha, coluna]);
+                        } 
+                        else
+                        {
+                            pilhaParaOrdenarString.Push(" milhões e ");
+                        }
+                        
+                    }
+                    else if (volta == 11)
+                    {
+                        if(num != '0')
+                        {
+                            pilhaParaOrdenarString.Push(" bilhões e ");
+                            pilhaParaOrdenarString.Push(numeros[linha, coluna]);
+                        }
+                        else
+                        {
+                            pilhaParaOrdenarString.Push(" bilhões e ");
+                        }
+                        
+                    }
+                    else if (num == 0)
+                    {
+
+                    }
+                }
 
                 coluna += 1;
                 linha += 1;
@@ -119,7 +146,20 @@ namespace Atividade3.Controllers
             while (pilhaParaOrdenarString.Count > 1)
             {
                 resultado.numeroExtenso += pilhaParaOrdenarString.Pop();
-            };
+            }
+            ;
+
+            if (pilhaParaOrdenarString.Peek() != " e ")
+            {
+                if (pilhaParaOrdenarString.Peek() == " mil e ")
+                    resultado.numeroExtenso += " mil";
+
+                if (pilhaParaOrdenarString.Peek() == " milhões e ")
+                    resultado.numeroExtenso += " milhões";
+
+                if (pilhaParaOrdenarString.Peek() == " bilhões e ")
+                    resultado.numeroExtenso += " bilhões";
+            }
 
             resultado.numeroExtenso += " reais";
 
