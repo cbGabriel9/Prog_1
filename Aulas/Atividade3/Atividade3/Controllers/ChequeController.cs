@@ -6,7 +6,7 @@ namespace Atividade3.Controllers
     public class Result
     {
         public string? numeroOriginal { get; set; }
-        public int? volta { get; set; }
+        public string? ultimaPilha { get; set; }
         public string? numeroExtenso { get; set; }
     }
 
@@ -52,6 +52,8 @@ namespace Atividade3.Controllers
             // Essa variável serve para ser a string que vai receber a frase por completa
             string? num_invertido = "";
 
+            string? num_extenso = string.Empty;
+
             // Servirá para indicar se o número estará na casa da unidade, dezena ou centena
             int linha = 0;
 
@@ -78,7 +80,7 @@ namespace Atividade3.Controllers
 
                 if (linha >= 0 && linha < 3 && coluna >= 0 && coluna < 10)
                 {
-                    if (num != '0' && volta != 4 && volta != 7 && volta != 11)
+                    if (num != '0' && volta != 4 && volta != 7 && volta != 10)
                     {
                         pilhaParaOrdenarString.Push(" e ");
                         pilhaParaOrdenarString.Push(numeros[linha, coluna]);
@@ -100,25 +102,24 @@ namespace Atividade3.Controllers
                     {
                         if (num!= '0')
                         {
-                            pilhaParaOrdenarString.Push(" milhões e ");
+                            pilhaParaOrdenarString.Push(" milhões, ");
                             pilhaParaOrdenarString.Push(numeros[linha, coluna]);
                         } 
                         else
                         {
-                            pilhaParaOrdenarString.Push(" milhões e ");
+                            pilhaParaOrdenarString.Push(" milhões, ");
                         }
-                        
                     }
-                    else if (volta == 11)
+                    else if (volta == 10)
                     {
                         if(num != '0')
                         {
-                            pilhaParaOrdenarString.Push(" bilhões e ");
+                            pilhaParaOrdenarString.Push(" bilhões, ");
                             pilhaParaOrdenarString.Push(numeros[linha, coluna]);
                         }
                         else
                         {
-                            pilhaParaOrdenarString.Push(" bilhões e ");
+                            pilhaParaOrdenarString.Push(" bilhões, ");
                         }
                         
                     }
@@ -145,23 +146,36 @@ namespace Atividade3.Controllers
 
             while (pilhaParaOrdenarString.Count > 1)
             {
-                resultado.numeroExtenso += pilhaParaOrdenarString.Pop();
-            }
-            ;
+                num_extenso += pilhaParaOrdenarString.Pop();
+            };
+
+            resultado.ultimaPilha = pilhaParaOrdenarString.Peek();
 
             if (pilhaParaOrdenarString.Peek() != " e ")
             {
                 if (pilhaParaOrdenarString.Peek() == " mil e ")
-                    resultado.numeroExtenso += " mil";
+                   num_extenso += " mil";
 
                 if (pilhaParaOrdenarString.Peek() == " milhões e ")
-                    resultado.numeroExtenso += " milhões";
+                    num_extenso += " milhões";
 
                 if (pilhaParaOrdenarString.Peek() == " bilhões e ")
-                    resultado.numeroExtenso += " bilhões";
+                    num_extenso += " bilhões";
             }
 
-            resultado.numeroExtenso += " reais";
+            num_extenso += " reais";
+
+            num_extenso = num_extenso.Replace("dez e um", "onze");
+            num_extenso = num_extenso.Replace("dez e dois", "doze");
+            num_extenso = num_extenso.Replace("dez e três", "treze");
+            num_extenso = num_extenso.Replace("dez e quatro", "quatorze");
+            num_extenso = num_extenso.Replace("dez e cinco", "quinze");
+            num_extenso = num_extenso.Replace("dez e seis", "dezesseis");
+            num_extenso = num_extenso.Replace("dez e sete", "dezessete");
+            num_extenso = num_extenso.Replace("dez e oito", "dezoito");
+            num_extenso = num_extenso.Replace("dez e nove", "dezenove");
+
+            resultado.numeroExtenso = num_extenso;
 
             return View("Index", resultado);
         }
