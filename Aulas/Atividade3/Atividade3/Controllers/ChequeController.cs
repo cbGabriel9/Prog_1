@@ -54,6 +54,8 @@ namespace Atividade3.Controllers
 
             string? num_extenso = string.Empty;
 
+            int tamanho_num = 0;
+
             // Servirá para indicar se o número estará na casa da unidade, dezena ou centena
             int linha = 0;
 
@@ -74,6 +76,8 @@ namespace Atividade3.Controllers
             }
             ;
 
+            tamanho_num = num_invertido.Length;
+
             foreach (char num in num_invertido)
             {
                 coluna = (int)char.GetNumericValue(num);
@@ -92,40 +96,32 @@ namespace Atividade3.Controllers
                             pilhaParaOrdenarString.Push(" mil e ");
                             pilhaParaOrdenarString.Push(numeros[linha, coluna]);
                         }
-                        else
-                        {
-                            pilhaParaOrdenarString.Push(" mil e ");
-                        }
-                        
                     }
                     else if ( volta == 7)
                     {
-                        if (num!= '0')
+                        if (num != '0' && tamanho_num == 7 && num == '1')
+                        {
+                            pilhaParaOrdenarString.Push(" milhão, ");
+                            pilhaParaOrdenarString.Push(numeros[linha, coluna]);
+                        } 
+                        else if (num != '0')
                         {
                             pilhaParaOrdenarString.Push(" milhões, ");
                             pilhaParaOrdenarString.Push(numeros[linha, coluna]);
-                        } 
-                        else
-                        {
-                            pilhaParaOrdenarString.Push(" milhões, ");
                         }
                     }
                     else if (volta == 10)
                     {
-                        if(num != '0')
+                        if(num != '0' && tamanho_num == 8 && num == '1')
+                        {
+                            pilhaParaOrdenarString.Push(" bilhão, ");
+                            pilhaParaOrdenarString.Push(numeros[linha, coluna]);
+                        }
+                        else if (num != '0')
                         {
                             pilhaParaOrdenarString.Push(" bilhões, ");
                             pilhaParaOrdenarString.Push(numeros[linha, coluna]);
                         }
-                        else
-                        {
-                            pilhaParaOrdenarString.Push(" bilhões, ");
-                        }
-                        
-                    }
-                    else if (num == 0)
-                    {
-
                     }
                 }
 
