@@ -114,9 +114,48 @@ namespace Aula03.Controllers
                 Expressão de repetição = Ação que será feita como contadora. Geralmente um acúmulo ou um decréscimo (acumulador);
              */
 
-            for (int i = 0; i < x; i++)
+            for (int i = 1; i <= x; i++)
             {
+                // E se eu quisesse interromper o laço caso ele fosse maior que 50
+
+                if (i > 50)
+                    break; // O comando break interrompe o laço
+
+                // Caso eu deseje que o laço siga em frente forçando a continuar a execução sem considerar o código abaixo
+
+                if ((i % 2) != 0)
+                    continue;
+
                 retorno += $"{i}; "; 
+            }
+
+            return retorno;
+        }
+
+        [HttpGet]
+        public string GetForeach(string color)
+        {
+            // O comando foreach (para cada) é utilizado para iterar por uma sequência de itens em uma coleção e servir como uma opção de repetição
+
+            string[] colors = {"Vermelho", "Preto", "Azul", "Amarelo", "Branco", "Azul-Marinho", "Rosa", "Roxo", "Cinza"};
+
+            string retorno = string.Empty;
+
+            if (colors.Contains(char.ToUpper(color[0]) + color.Substring(1)))
+            {
+                retorno =  "A cor escolhida é valida. ";
+            }
+            else
+            {
+                retorno = "Cor escolhida inválida. ";
+            }
+
+            retorno += "Temos essas opções: ";
+
+            foreach (string s in colors)
+            {
+                
+                retorno += $" [{s}] ";
             }
 
             return retorno;
