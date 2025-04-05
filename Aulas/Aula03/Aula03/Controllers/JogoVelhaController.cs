@@ -11,11 +11,17 @@ namespace Aula03.Controllers
 
     public class JogoVelhaController : Controller
     {
+        private readonly ILogger<JogoVelhaController> _logger;
+
+        public JogoVelhaController(ILogger<JogoVelhaController> logger)
+        {
+            _logger = logger;
+        }
 
         [HttpGet]
         public IActionResult Index()
         {
-            return View();
+            return View("Index", new Result());
         }
 
         [HttpPost]
@@ -100,7 +106,7 @@ namespace Aula03.Controllers
                         }
                         else if (pontuacaoO == 3)
                         {
-                            resultado.ganhador = "O ganhador é o jogador de O";
+                            resultado.ganhador = @"O ganhador é o jogador de  ""O"" ";
                         }
                     }
                 }

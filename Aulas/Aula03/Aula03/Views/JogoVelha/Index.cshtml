@@ -6,7 +6,9 @@
 @{
 }
 
-<form id="JogoVelhaForm" method="post">
+<h1>Jogo da Velha</h1>
+
+<form id="JogoVelhaForm" method="post" asp-action="Index" asp-controller="JogoVelha">
 
     <div>
         <table>
@@ -30,14 +32,13 @@
         </table>
     </div>
     <input type="submit" value="Validar" />
-
-    @if (Model.ganhador != null)
-    {
-        <p>@Model.ganhador</p>
-    }
-    else
-    {
-
-    }
-
 </form>
+
+@if (Model.ganhador != null)
+{
+    <p>@Model.ganhador</p>
+}
+else
+{
+
+}
