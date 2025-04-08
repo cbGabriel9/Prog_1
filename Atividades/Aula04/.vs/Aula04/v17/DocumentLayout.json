@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Prog_1\\Atividades\\Aula04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6CC2927-B2D2-418B-8AEE-60E5638C9EB2}|Aula04\\Aula04.csproj|c:\\prog_1\\atividades\\aula04\\aula04\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6CC2927-B2D2-418B-8AEE-60E5638C9EB2}|Aula04\\Aula04.csproj|solutionrelative:aula04\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6CC2927-B2D2-418B-8AEE-60E5638C9EB2}|Aula04\\Aula04.csproj|c:\\prog_1\\atividades\\aula04\\aula04\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A6CC2927-B2D2-418B-8AEE-60E5638C9EB2}|Aula04\\Aula04.csproj|solutionrelative:aula04\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Prog_1\\Atividades\\Aula04\\Aula04\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Aula04\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Prog_1\\Atividades\\Aula04\\Aula04\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Aula04\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-07T23:06:17.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Prog_1\\Atividades\\Aula04\\Aula04\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Aula04\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Prog_1\\Atividades\\Aula04\\Aula04\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Aula04\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAiwHkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T22:56:35.52Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

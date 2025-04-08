@@ -92,4 +92,32 @@ Escolher ponto de parada;
 Clicar F10 para ele ir executando próxima linha;
 Clicar F5 para ir até o fim do código.
 
+FLAG, CONTADOR E ACUMULADOR (ESTRUTURA DE REPETIÇÃO)
+
+FLAG - EXPRESSÃO BOOLEANA
+CONTADOR - CADA VEZ QUE O LAÇO ACONTECER, VAI CONTAR
+ACUMULADOR - FAZ UM PROCESSO DE ACUMULAÇÃO
+
+LAÇOS DE REPETIÇÃO = WHILE, DO WHILE, FOR, FOREACH
+
+RECURSIVIDADE = Chamar a si mesmo dentro do próprio escopo
+
+CASO BASE:  
+CASO RECURSIVO:
+
+Para colocar um botão de navegação a mais na tela do home o caminho é este: Views > Shared > Layout e nesta folha de código eu alterei a "ul" colocando um novo li copiando de cima e mudando a action.
+
+Comentário HTML: <!-- -->
+Comentário Razor: @* *@
+
+Atividade:
+
+1) Escreva um programa recursivo em C# para imprimir os números de n até 1 (decrescente);
+
+2) Escreva um programa em C# capaz de sumarizar os números de 1 a n. Por exemplo: n = 10 [1+2+3+4+5+6+7+8+9+10];
+
+3) Escreva um programa recursivo em C# capaz de contar quantos caracteres tem em uma string;
+
+4) Escreva um programa recursivo que seja capaz de identificar se uma palavra é ou não um PALÍNDROMO: OVO, ARARA, MUSSUM, RADAR, ETC.
+
 Conteúdos da prova: if, for, switch, vetor, matriz, visual studio, dotnet, c#, http, post, get, put, delete, conceitos.
