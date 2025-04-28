@@ -112,19 +112,38 @@ namespace Aula04.Controllers
         [HttpGet]
         public int ContChar(string palavra, int tamanhoString = 0)
         {
-
-            tamanhoString = palavra.Length;
-
-            if (tamanhoString >= palavra)
+            if (palavra == null || palavra == "")
             {
-                return ca;
+                return tamanhoString;
             }
 
-            soma += n;
-
-            soma += SumNumber(n - 1);
-
-            return soma;
+            // Remove o primeiro caractere e chama recursivamente
+            return ContChar(palavra.Substring(1), tamanhoString + 1);
         }
+
+        [HttpGet]
+        public bool IsPalindrome(string palavra, int inicio = 0)
+        {
+            if (palavra == null)
+            {
+                return false;
+            }
+
+            palavra = palavra.ToLower(); // Deixa tudo minúsculo para padronizar
+            int fim = palavra.Length - 1 - inicio;
+
+            if (inicio >= fim)
+            {
+                return true; // Se cruzou no meio, confirmou que é palíndromo
+            }
+
+            if (palavra[inicio] != palavra[fim])
+            {
+                return false; // Se encontrou diferença, não é palíndromo
+            }
+
+            return IsPalindrome(palavra, inicio + 1); // Avança para próximo par
+        }
+
     }
 }

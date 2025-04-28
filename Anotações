@@ -28,14 +28,14 @@ git remote -v: Ver os repositórios remotos
 git remote add origin link: Puxar o repositório remoto para local
 
 -----------------------------------------------------------
-MCV: Model View Controller - Arquitetura (Foi o tipo de projeto que criamos com o .NET);
+MVC: Model View Controller - Arquitetura (Foi o tipo de projeto que criamos com o .NET);
 -> Model: Especifica os dados que compõem o modelo do APP;
 -> View: A UI (User Interface);
 -> Controller: Responde aos comandos da aplicação;
 
 var: variável do tipo implícito, onde não determina o tipo da variável. Ele pode se tornar tipo inteiro, string, uma função, um objeto ou algo mais complexo.
  
-Lembrar de colocar o @model no index css para mostrar o tipo dos dados que vão ser recebido na web
+Lembrar de colocar o @model no index cshtml para mostrar o tipo dos dados que vão ser recebido na web
 
 Atividade 1: Com base no exemplo feito em laboratório, com os tipos inteiros nas variáveis totalCount e userCount que foram exibidos em tela no Home/Index, contidos na classe Variáveis faça:
 Na página 47 do livro é possível acessar os valores mínimos e máximos para os demais tipos númericos. Edite a classe Variáveis, crie novos atributos a ela e armazena os valores Min e Max de cada tipo numérico para em seguida exibir em tela no Home/Index
@@ -52,11 +52,11 @@ Website: Página estática, exibe imagem, texto, vídeo. Não tem interação co
 
 Encriptação Simétrica: Método convencional para garantir integridade dos dados transferidos. Faz uso de uma única chave secreta "Symmetric Key" para criptografar e descriptografar a mensagem, onde apenas o remetente e o destinatário possuem esta chave.
 
-Encriptação Assimétrica: Utiliza duas chaves: Pública e privada. A pública codifica e a privada descodifica.
+Encriptação Assimétrica: Utiliza duas chaves: Pública e privada. A pública codifica e a privada decodifica.
 
-Request-Responde: Baseado em Cliente-Server. Servidor é um computador que recebe requisições de um cliente e os serve. Tipicamente um computador parrduo com memória e processdor suficiente para atender a demandas dos clientes (usuários).
+Request-Response: Baseado em Cliente-Server. Servidor é um computador que recebe requisições de um cliente e os serve. Tipicamente um computador parrudo com memória e processdor suficiente para atender as demandas dos clientes (usuários).
 
-Stateless: Não armazena aos estados servidas e recebidas anteriormente, não possui um histórico.
+Stateless: Não armazena aos estados servidos e recebidos anteriormente, não possui um histórico.
 
 Cliente pode ser um navegador, servidor pode ser seu computador.
 
@@ -102,8 +102,8 @@ LAÇOS DE REPETIÇÃO = WHILE, DO WHILE, FOR, FOREACH
 
 RECURSIVIDADE = Chamar a si mesmo dentro do próprio escopo
 
-CASO BASE:  
-CASO RECURSIVO:
+CASO BASE
+CASO RECURSIVO
 
 Para colocar um botão de navegação a mais na tela do home o caminho é este: Views > Shared > Layout e nesta folha de código eu alterei a "ul" colocando um novo li copiando de cima e mudando a action.
 

@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Prog_1\\Atividades\\Aula04\\",
+  "WorkspaceRootPath": "C:\\Users\\gabyc\\OneDrive\\\u00C1rea de Trabalho\\Computacao\\Prog_1\\Aulas\\Aula04\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A6CC2927-B2D2-418B-8AEE-60E5638C9EB2}|Aula04\\Aula04.csproj|c:\\prog_1\\atividades\\aula04\\aula04\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6CC2927-B2D2-418B-8AEE-60E5638C9EB2}|Aula04\\Aula04.csproj|solutionrelative:aula04\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A6CC2927-B2D2-418B-8AEE-60E5638C9EB2}|Aula04\\Aula04.csproj|c:\\users\\gabyc\\onedrive\\\u00E1rea de trabalho\\computacao\\prog_1\\aulas\\aula04\\aula04\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A6CC2927-B2D2-418B-8AEE-60E5638C9EB2}|Aula04\\Aula04.csproj|solutionrelative:aula04\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A6CC2927-B2D2-418B-8AEE-60E5638C9EB2}|Aula04\\Aula04.csproj|c:\\prog_1\\atividades\\aula04\\aula04\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A6CC2927-B2D2-418B-8AEE-60E5638C9EB2}|Aula04\\Aula04.csproj|solutionrelative:aula04\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A6CC2927-B2D2-418B-8AEE-60E5638C9EB2}|Aula04\\Aula04.csproj|c:\\users\\gabyc\\onedrive\\\u00E1rea de trabalho\\computacao\\prog_1\\aulas\\aula04\\aula04\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6CC2927-B2D2-418B-8AEE-60E5638C9EB2}|Aula04\\Aula04.csproj|solutionrelative:aula04\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,26 +26,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Prog_1\\Atividades\\Aula04\\Aula04\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\gabyc\\OneDrive\\\u00C1rea de Trabalho\\Computacao\\Prog_1\\Aulas\\Aula04\\Aula04\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Aula04\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Prog_1\\Atividades\\Aula04\\Aula04\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\gabyc\\OneDrive\\\u00C1rea de Trabalho\\Computacao\\Prog_1\\Aulas\\Aula04\\Aula04\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Aula04\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACEAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACkAAACaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-04-07T23:06:17.896Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Prog_1\\Atividades\\Aula04\\Aula04\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\gabyc\\OneDrive\\\u00C1rea de Trabalho\\Computacao\\Prog_1\\Aulas\\Aula04\\Aula04\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Aula04\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Prog_1\\Atividades\\Aula04\\Aula04\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\gabyc\\OneDrive\\\u00C1rea de Trabalho\\Computacao\\Prog_1\\Aulas\\Aula04\\Aula04\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Aula04\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAEwAAAAAAAAAAAAuwGEAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAuwIwAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-07T22:56:35.52Z",
               "EditorCaption": ""
