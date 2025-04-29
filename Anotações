@@ -121,3 +121,93 @@ Atividade:
 4) Escreva um programa recursivo que seja capaz de identificar se uma palavra é ou não um PALÍNDROMO: OVO, ARARA, MUSSUM, RADAR, ETC.
 
 Conteúdos da prova: if, for, switch, vetor, matriz, visual studio, dotnet, c#, http, post, get, put, delete, conceitos.
+
+Aula Teórica
+
+OO -> Orientada a Objetos
+POO -> Programação Orientada a Objetos = OOP -> Object Orientation Program
+POG -> Programação Orientada a Gambiarra
+
+API -> Serviço distribuído, serve para conectar um sistema a outro, tipo um Gateway
+Acess Program Interface.
+
+Paradigma é tipo um procípio, quando falamos "Quebrar paradigmas", é mudar a forma de fazer algo.
+
+Classe -> Você define a classe, você escreve a classe, a palavra-chave é "class"
+Formada por propriedades, funções/métodos que compõem os membros da classe, quando você escreve uma função, um procedimento, por exemplo, você está definindo os membros
+da classe.
+
+public class Customer
+{
+      public int CustomerId { get; set; }
+      public string EmailAddress { get; set; }
+      public string FirstName { get; set; }
+      public string LastName { get; set; }
+      public bool validate() { ... } 
+}
+
+Quando você vai escolher um personagem em um jogo, você pode escolher a classe, os atributos deles mudam. Por exemplo, um arqueiro tem um atributo (ele tem mais mira),
+um bárbaro tem outros (ele é mais forte), um clérigo tem outras (tem mais religião).
+
+Objeto -> é uma instância dentro da classe, ocupa um espaço na memória do computador, é uma variável que você criou, está pronta para ser usada a qualquer momento. Variável que possibilita o acesso aos métodos e propriedades especificadas pela classe. O personagem que você cria no jogo, que você vê, que você mexe, é a representação gráfica, ele é o objeto (Que pode receber os atributos da classe que você definir para ele). Se você cria uma variável, o "=" é um "igual" no sentido de atribuição.
+
+Se tem parênteses, é um método.
+
+var customer = new Customer(); //Customer é consumidor em inglês;
+
+customer.firstname = "Frodo";
+
+customer.Validate();
+
+Métodos -> Podemos definir como se fossem verbos (correr, andar, pular, nadar...);
+
+Os objetos possuem um formato especificado pela classe, porém, cada um deles podem armazenar valores diferentes em suas propriedades ocasionando comportamentos diferentes em seus métodos.
+
+Classe: É a forma de fazer bolacha
+Objeto: É a bolacha que foi feita com o molde, o resultado, tendo objetos diferentes, uma é salgada, outra é doce, outra é rosa e etc...
+
+Business Object: São as classes projetadas para solucionar problemas de um determinado domínio de aplicação de software.
+
+Certamente teríamos uma definição de classe Consumidor em um sistema comercial, contendo nome e email como propriedades por exemplo.
+
+Entidade: Qualquer coisa importante do domínio da aplicação ou do mundo real que precise ser representado como uma classe;
+
+Vou olhar o domínio, ou seja, o contexto, separar as entidades, definir as classes e propriedades para produzir os objetos.
+
+POO: Uma abordagem para projetar e construir aplicações que são:
+
+- Flexíveis;
+- Naturais;
+- Bem elaboradas;
+- Testáveis;
+
+Sendo focada em objetos que interagir uns com os outros;
+
+Passos da POO:
+
+- 1: Identificar as classes dos requisitos ou especificações;
+- 2: Analise as classes e separe as responsabilidades. Tenha em mente a aplicação poderá ser decomposta com o mínimo de impacto;
+- 3: Estabeleça os relacionamentos entre as classes para que os objetos possam operar em conjunto na resolução da proposta do software;
+- 4: Reutilize. Construa seu código pensando em reaproveitamento do código para evitar repetições e facilitar manutenções;
+
+Atividade:
+
+Você recebeu uma solicitação por email de uma amiga veterinária, informando que está com problemas para gerenciar os atendimentos dos pets. Na mensagem, ela diz que gostaria de ter registros dos animais, que precisam também dos dados dos seus parceiros veterinários que atendem no centro clínico para poder saber quais médicos atenderam quais animais em um determinado período de tempo, ou até mesmo, registrar quais procedimentos foram realizados com os animais nos últimos atendimento.
+
+Classes:  ANIMAIS, PARCEIROS VETERINARIOS, CENTRO CLÍNICO, ATENDIMENTO
+
+Atendimento (DATA/HORA, PARCEIRO_VETERINARIO, ANIMAL, PROCEDIMENTO, SITUACAO, PARECER_MEDICO, PROCEDIMENTO);
+Animais (NOME, RAÇA, ALERGIA, DONO, IDENTIFICACAO_DIGITAL, COR, PELAGEM, SEXO, TAMANHO, PESO, IDADE);
+Centro Clínico (NOME, ENDEREÇO, HORA_ATENDIMENTO, CONTATO);
+Parceiros Veterinários (NOME, ESPECIALIZAÇÃO, IDADE, CPF, TELEFONE, EMAIL, CRM).
+
+Abstração: É um processo que dependerá dos requisitos da aplicação. Em nosso caso, temos a ENTIDADE Veterinário, onde se faz necessário registrar poucos dados (Nome, Email, Telefone, CRM) devido ao escopo reduzido do problema, mas se estivéssemos modelando um sistema mais robusto para aplicações diversas, certamente precisaríamos de mais informações sobre o veterinário, como endereço, especialidade e etc...
+
+Encapsulamento: Técnica para "esconder" os dados e os detalhes da implementação em uma classe.
+
+4 pilares do POO:
+
+- Abstração;
+- Encapsulamento;
+- 
+-
