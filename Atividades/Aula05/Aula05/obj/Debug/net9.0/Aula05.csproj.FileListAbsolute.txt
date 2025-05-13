@@ -97,3 +97,7 @@ C:\Prog_1\Atividades\Aula05\Aula05\obj\Debug\net9.0\refint\Aula05.dll
 C:\Prog_1\Atividades\Aula05\Aula05\obj\Debug\net9.0\Aula05.pdb
 C:\Prog_1\Atividades\Aula05\Aula05\obj\Debug\net9.0\Aula05.genruntimeconfig.cache
 C:\Prog_1\Atividades\Aula05\Aula05\obj\Debug\net9.0\ref\Aula05.dll
+C:\Prog_1\Atividades\Aula05\Aula05\bin\Debug\net9.0\Modelo.dll
+C:\Prog_1\Atividades\Aula05\Aula05\bin\Debug\net9.0\Modelo.pdb
+C:\Prog_1\Atividades\Aula05\Aula05\obj\Debug\net9.0\Aula05.csproj.AssemblyReference.cache
+C:\Prog_1\Atividades\Aula05\Aula05\obj\Debug\net9.0\Aula05.csproj.Up2Date
