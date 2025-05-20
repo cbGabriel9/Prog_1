@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "C:\\Prog_1\\Atividades\\Aula05\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6C6733E8-0A0C-472C-868E-37F05ED00030}|Aula05\\Aula05.csproj|c:\\prog_1\\atividades\\aula05\\aula05\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C6733E8-0A0C-472C-868E-37F05ED00030}|Aula05\\Aula05.csproj|solutionrelative:aula05\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0F20376D-657A-41F0-9C5C-8727DC96253A}|Modelo\\Modelo.csproj|c:\\prog_1\\atividades\\aula05\\modelo\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F20376D-657A-41F0-9C5C-8727DC96253A}|Modelo\\Modelo.csproj|solutionrelative:modelo\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C6733E8-0A0C-472C-868E-37F05ED00030}|Aula05\\Aula05.csproj|c:\\prog_1\\atividades\\aula05\\aula05\\aula05.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{6C6733E8-0A0C-472C-868E-37F05ED00030}|Aula05\\Aula05.csproj|solutionrelative:aula05\\aula05.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{1D76E51A-CD63-47BA-BEDA-4662FFE55E9B}|Repository\\Repository.csproj|c:\\prog_1\\atividades\\aula05\\repository\\orderitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D76E51A-CD63-47BA-BEDA-4662FFE55E9B}|Repository\\Repository.csproj|solutionrelative:repository\\orderitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Customer.cs",
-              "DocumentMoniker": "C:\\Prog_1\\Atividades\\Aula05\\Modelo\\Customer.cs",
-              "RelativeDocumentMoniker": "Modelo\\Customer.cs",
-              "ToolTip": "C:\\Prog_1\\Atividades\\Aula05\\Modelo\\Customer.cs",
-              "RelativeToolTip": "Modelo\\Customer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T00:29:25.715Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Aula05",
-              "DocumentMoniker": "C:\\Prog_1\\Atividades\\Aula05\\Aula05\\Aula05.csproj",
-              "RelativeDocumentMoniker": "Aula05\\Aula05.csproj",
-              "ToolTip": "C:\\Prog_1\\Atividades\\Aula05\\Aula05\\Aula05.csproj",
-              "RelativeToolTip": "Aula05\\Aula05.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-13T00:12:04.461Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Prog_1\\Atividades\\Aula05\\Aula05\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Aula05\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Prog_1\\Atividades\\Aula05\\Aula05\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Aula05\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Title": "OrderItemRepository.cs",
+              "DocumentMoniker": "C:\\Prog_1\\Atividades\\Aula05\\Repository\\OrderItemRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\OrderItemRepository.cs",
+              "ToolTip": "C:\\Prog_1\\Atividades\\Aula05\\Repository\\OrderItemRepository.cs",
+              "RelativeToolTip": "Repository\\OrderItemRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T00:10:18.956Z",
+              "WhenOpened": "2025-05-20T01:01:11.314Z",
               "EditorCaption": ""
             },
             {

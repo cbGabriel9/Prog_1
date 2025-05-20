@@ -3,8 +3,28 @@
   "WorkspaceRootPath": "C:\\Prog_1\\Atividades\\Aula05\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1D76E51A-CD63-47BA-BEDA-4662FFE55E9B}|Repository\\Repository.csproj|c:\\prog_1\\atividades\\aula05\\repository\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D76E51A-CD63-47BA-BEDA-4662FFE55E9B}|Repository\\Repository.csproj|solutionrelative:repository\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F20376D-657A-41F0-9C5C-8727DC96253A}|Modelo\\Modelo.csproj|c:\\prog_1\\atividades\\aula05\\modelo\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F20376D-657A-41F0-9C5C-8727DC96253A}|Modelo\\Modelo.csproj|solutionrelative:modelo\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F20376D-657A-41F0-9C5C-8727DC96253A}|Modelo\\Modelo.csproj|c:\\prog_1\\atividades\\aula05\\modelo\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F20376D-657A-41F0-9C5C-8727DC96253A}|Modelo\\Modelo.csproj|solutionrelative:modelo\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0F20376D-657A-41F0-9C5C-8727DC96253A}|Modelo\\Modelo.csproj|c:\\prog_1\\atividades\\aula05\\modelo\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0F20376D-657A-41F0-9C5C-8727DC96253A}|Modelo\\Modelo.csproj|solutionrelative:modelo\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F20376D-657A-41F0-9C5C-8727DC96253A}|Modelo\\Modelo.csproj|c:\\prog_1\\atividades\\aula05\\modelo\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F20376D-657A-41F0-9C5C-8727DC96253A}|Modelo\\Modelo.csproj|solutionrelative:modelo\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F20376D-657A-41F0-9C5C-8727DC96253A}|Modelo\\Modelo.csproj|c:\\prog_1\\atividades\\aula05\\modelo\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F20376D-657A-41F0-9C5C-8727DC96253A}|Modelo\\Modelo.csproj|solutionrelative:modelo\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6C6733E8-0A0C-472C-868E-37F05ED00030}|Aula05\\Aula05.csproj|c:\\prog_1\\atividades\\aula05\\aula05\\aula05.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -27,20 +47,89 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Customer.cs",
-              "DocumentMoniker": "C:\\Prog_1\\Atividades\\Aula05\\Modelo\\Customer.cs",
-              "RelativeDocumentMoniker": "Modelo\\Customer.cs",
-              "ToolTip": "C:\\Prog_1\\Atividades\\Aula05\\Modelo\\Customer.cs",
-              "RelativeToolTip": "Modelo\\Customer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Prog_1\\Atividades\\Aula05\\Repository\\Class1.cs",
+              "RelativeDocumentMoniker": "Repository\\Class1.cs",
+              "ToolTip": "C:\\Prog_1\\Atividades\\Aula05\\Repository\\Class1.cs",
+              "RelativeToolTip": "Repository\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T00:29:25.715Z",
+              "WhenOpened": "2025-05-20T00:50:30.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Address.cs",
+              "DocumentMoniker": "C:\\Prog_1\\Atividades\\Aula05\\Modelo\\Address.cs",
+              "RelativeDocumentMoniker": "Modelo\\Address.cs",
+              "ToolTip": "C:\\Prog_1\\Atividades\\Aula05\\Modelo\\Address.cs",
+              "RelativeToolTip": "Modelo\\Address.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T00:34:34.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Prog_1\\Atividades\\Aula05\\Modelo\\OrderItem.cs",
+              "RelativeDocumentMoniker": "Modelo\\OrderItem.cs",
+              "ToolTip": "C:\\Prog_1\\Atividades\\Aula05\\Modelo\\OrderItem.cs",
+              "RelativeToolTip": "Modelo\\OrderItem.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T22:46:19.634Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Aula05",
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Prog_1\\Atividades\\Aula05\\Modelo\\Order.cs",
+              "RelativeDocumentMoniker": "Modelo\\Order.cs",
+              "ToolTip": "C:\\Prog_1\\Atividades\\Aula05\\Modelo\\Order.cs",
+              "RelativeToolTip": "Modelo\\Order.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwCQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T22:44:31.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Prog_1\\Atividades\\Aula05\\Modelo\\Customer.cs",
+              "RelativeDocumentMoniker": "Modelo\\Customer.cs",
+              "ToolTip": "C:\\Prog_1\\Atividades\\Aula05\\Modelo\\Customer.cs",
+              "RelativeToolTip": "Modelo\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T22:43:11.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Prog_1\\Atividades\\Aula05\\Modelo\\Product.cs",
+              "RelativeDocumentMoniker": "Modelo\\Product.cs",
+              "ToolTip": "C:\\Prog_1\\Atividades\\Aula05\\Modelo\\Product.cs",
+              "RelativeToolTip": "Modelo\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T22:37:34.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Aula05.csproj",
               "DocumentMoniker": "C:\\Prog_1\\Atividades\\Aula05\\Aula05\\Aula05.csproj",
               "RelativeDocumentMoniker": "Aula05\\Aula05.csproj",
               "ToolTip": "C:\\Prog_1\\Atividades\\Aula05\\Aula05\\Aula05.csproj",
@@ -52,20 +141,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Prog_1\\Atividades\\Aula05\\Aula05\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Aula05\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Prog_1\\Atividades\\Aula05\\Aula05\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Aula05\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-13T00:10:18.956Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             }
           ]
         }

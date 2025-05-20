@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Runtime.CompilerServices;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -15,17 +16,14 @@ namespace Modelo
 
         public bool Validate()
         {
-            return true;
-        }
+            bool IsValid = true;
 
-        public OrderItem Retrieve()
-        {
-            return new OrderItem();
-        }
+            IsValid = (Product is not null) &&
+                      (this.Id > 0) &&
+                      (this.Quantity > 0) &&
+                      (this.PurchasePrice > 0);
 
-        public void Save(OrderItem orderItem) // OrderItem é um tipo e orderItem é uma variável
-        {
-
+            return IsValid;
         }
     }
 }
