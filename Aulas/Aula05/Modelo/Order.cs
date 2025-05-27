@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Modelo
 {
-    internal class Order
+    public class Order
     {
         #region Atributos
         public int Id { get; set; }
@@ -36,7 +36,7 @@ namespace Modelo
         public Order(int orderId) : this()
         {
             this.Id = orderId;
-            ShippingAddress.StreetLine1 = $"Endereço {orderId}";
+            ShippingAddress!.StreetLine1 = $"Endereço {orderId}";
         }
     }
 }

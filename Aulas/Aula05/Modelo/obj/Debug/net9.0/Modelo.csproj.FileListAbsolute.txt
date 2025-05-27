@@ -10,3 +10,15 @@ C:\Prog_1\Atividades\Aula05\Modelo\obj\Debug\net9.0\Modelo.dll
 C:\Prog_1\Atividades\Aula05\Modelo\obj\Debug\net9.0\refint\Modelo.dll
 C:\Prog_1\Atividades\Aula05\Modelo\obj\Debug\net9.0\Modelo.pdb
 C:\Prog_1\Atividades\Aula05\Modelo\obj\Debug\net9.0\ref\Modelo.dll
+C:\Prog_1\Aulas\Aula05\Modelo\obj\Debug\net9.0\Modelo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Prog_1\Aulas\Aula05\Modelo\obj\Debug\net9.0\Modelo.AssemblyInfoInputs.cache
+C:\Prog_1\Aulas\Aula05\Modelo\obj\Debug\net9.0\Modelo.AssemblyInfo.cs
+C:\Prog_1\Aulas\Aula05\Modelo\obj\Debug\net9.0\Modelo.csproj.CoreCompileInputs.cache
+C:\Prog_1\Aulas\Aula05\Modelo\obj\Debug\net9.0\Modelo.sourcelink.json
+C:\Prog_1\Aulas\Aula05\Modelo\obj\Debug\net9.0\Modelo.dll
+C:\Prog_1\Aulas\Aula05\Modelo\obj\Debug\net9.0\refint\Modelo.dll
+C:\Prog_1\Aulas\Aula05\Modelo\obj\Debug\net9.0\Modelo.pdb
+C:\Prog_1\Aulas\Aula05\Modelo\bin\Debug\net9.0\Modelo.deps.json
+C:\Prog_1\Aulas\Aula05\Modelo\bin\Debug\net9.0\Modelo.dll
+C:\Prog_1\Aulas\Aula05\Modelo\bin\Debug\net9.0\Modelo.pdb
+C:\Prog_1\Aulas\Aula05\Modelo\obj\Debug\net9.0\ref\Modelo.dll

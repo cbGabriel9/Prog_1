@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Modelo
 {
-    internal class OrderItem
+    public class OrderItem
     {
         public int Id { get; set; }
         public Product? Product { get; set; }
