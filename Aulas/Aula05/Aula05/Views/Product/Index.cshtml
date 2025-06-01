@@ -1,25 +1,30 @@
 ﻿@model List<Modelo.Product>
 
-@{
-    ViewData["Title"] = "Home Page";
+<a asp-action="Create" asp-controller="Product" class="btn btn-light">Novo Product</a>
+
+@if (Model.Count > 0)
+{
+    <table>
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Nome</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (Modelo.Product product in Model)
+            {
+                <tr>
+                    <td>@product.Id</td>
+                    <td>@product.ProductName</td>
+                </tr>
+            }
+        </tbody>
+    </table>
 }
-
-<div class="text-center">
-    <h1>Cadastro de Produtos</h1>
-
-    <div class="container">
-        <form id="formProduct" method="post" asp-action="Create" asp-controller="Product">
-            <div class="row">
-                <div class="form-group">
-                    <label asp-for="@Model.ggggg">Nome do produto:</label>
-                    <input type="text" class="form-control" asp-for="@Model.ProductName" />
-                </div>
-            </div>
-
-
-
-            <button id="btnProduct" type="submit" class="btn btn-primary" value="Cadastrar">Cadastrar</button>
-        </form>
-
+else
+{
+    <div>
+        Não existem registros de products
     </div>
-</div>
+}
