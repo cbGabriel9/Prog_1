@@ -1,30 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\PICHAU\\Desktop\\Faculdade\\Programa\u00E7\u00E3o I\\Prog_1\\Aulas\\Aula05\\",
+  "WorkspaceRootPath": "C:\\Prog_1\\Aulas\\Aula05\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6C6733E8-0A0C-472C-868E-37F05ED00030}|Aula05\\Aula05.csproj|c:\\users\\pichau\\desktop\\faculdade\\programa\u00E7\u00E3o i\\prog_1\\aulas\\aula05\\aula05\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6C6733E8-0A0C-472C-868E-37F05ED00030}|Aula05\\Aula05.csproj|solutionrelative:aula05\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D76E51A-CD63-47BA-BEDA-4662FFE55E9B}|Repository\\Repository.csproj|c:\\users\\pichau\\desktop\\faculdade\\programa\u00E7\u00E3o i\\prog_1\\aulas\\aula05\\repository\\customerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D76E51A-CD63-47BA-BEDA-4662FFE55E9B}|Repository\\Repository.csproj|solutionrelative:repository\\customerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D76E51A-CD63-47BA-BEDA-4662FFE55E9B}|Repository\\Repository.csproj|c:\\users\\pichau\\desktop\\faculdade\\programa\u00E7\u00E3o i\\prog_1\\aulas\\aula05\\repository\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D76E51A-CD63-47BA-BEDA-4662FFE55E9B}|Repository\\Repository.csproj|solutionrelative:repository\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C6733E8-0A0C-472C-868E-37F05ED00030}|Aula05\\Aula05.csproj|c:\\users\\pichau\\desktop\\faculdade\\programa\u00E7\u00E3o i\\prog_1\\aulas\\aula05\\aula05\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C6733E8-0A0C-472C-868E-37F05ED00030}|Aula05\\Aula05.csproj|solutionrelative:aula05\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C6733E8-0A0C-472C-868E-37F05ED00030}|Aula05\\Aula05.csproj|c:\\users\\pichau\\desktop\\faculdade\\programa\u00E7\u00E3o i\\prog_1\\aulas\\aula05\\aula05\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C6733E8-0A0C-472C-868E-37F05ED00030}|Aula05\\Aula05.csproj|solutionrelative:aula05\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D76E51A-CD63-47BA-BEDA-4662FFE55E9B}|Repository\\Repository.csproj|c:\\users\\pichau\\desktop\\faculdade\\programa\u00E7\u00E3o i\\prog_1\\aulas\\aula05\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D76E51A-CD63-47BA-BEDA-4662FFE55E9B}|Repository\\Repository.csproj|solutionrelative:repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6C6733E8-0A0C-472C-868E-37F05ED00030}|Aula05\\Aula05.csproj|c:\\prog_1\\aulas\\aula05\\aula05\\views\\customer\\import.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C6733E8-0A0C-472C-868E-37F05ED00030}|Aula05\\Aula05.csproj|solutionrelative:aula05\\views\\customer\\import.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,79 +19,15 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\PICHAU\\Desktop\\Faculdade\\Programa\u00E7\u00E3o I\\Prog_1\\Aulas\\Aula05\\Aula05\\Views\\Product\\Create.cshtml",
-              "RelativeDocumentMoniker": "Aula05\\Views\\Product\\Create.cshtml",
-              "ToolTip": "C:\\Users\\PICHAU\\Desktop\\Faculdade\\Programa\u00E7\u00E3o I\\Prog_1\\Aulas\\Aula05\\Aula05\\Views\\Product\\Create.cshtml",
-              "RelativeToolTip": "Aula05\\Views\\Product\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Title": "Import.cshtml",
+              "DocumentMoniker": "C:\\Prog_1\\Aulas\\Aula05\\Aula05\\Views\\Customer\\Import.cshtml",
+              "RelativeDocumentMoniker": "Aula05\\Views\\Customer\\Import.cshtml",
+              "ToolTip": "C:\\Prog_1\\Aulas\\Aula05\\Aula05\\Views\\Customer\\Import.cshtml",
+              "RelativeToolTip": "Aula05\\Views\\Customer\\Import.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-01T18:11:01.655Z",
+              "WhenOpened": "2025-06-03T01:01:40.014Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CustomerData.cs",
-              "DocumentMoniker": "C:\\Users\\PICHAU\\Desktop\\Faculdade\\Programa\u00E7\u00E3o I\\Prog_1\\Aulas\\Aula05\\Repository\\CustomerData.cs",
-              "RelativeDocumentMoniker": "Repository\\CustomerData.cs",
-              "ToolTip": "C:\\Users\\PICHAU\\Desktop\\Faculdade\\Programa\u00E7\u00E3o I\\Prog_1\\Aulas\\Aula05\\Repository\\CustomerData.cs",
-              "RelativeToolTip": "Repository\\CustomerData.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T01:02:37.259Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\PICHAU\\Desktop\\Faculdade\\Programa\u00E7\u00E3o I\\Prog_1\\Aulas\\Aula05\\Aula05\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "Aula05\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\PICHAU\\Desktop\\Faculdade\\Programa\u00E7\u00E3o I\\Prog_1\\Aulas\\Aula05\\Aula05\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "Aula05\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T00:47:48.558Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CustomerController.cs",
-              "DocumentMoniker": "C:\\Users\\PICHAU\\Desktop\\Faculdade\\Programa\u00E7\u00E3o I\\Prog_1\\Aulas\\Aula05\\Aula05\\Controllers\\CustomerController.cs",
-              "RelativeDocumentMoniker": "Aula05\\Controllers\\CustomerController.cs",
-              "ToolTip": "C:\\Users\\PICHAU\\Desktop\\Faculdade\\Programa\u00E7\u00E3o I\\Prog_1\\Aulas\\Aula05\\Aula05\\Controllers\\CustomerController.cs",
-              "RelativeToolTip": "Aula05\\Controllers\\CustomerController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T00:09:35.89Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CustomerRepository.cs",
-              "DocumentMoniker": "C:\\Users\\PICHAU\\Desktop\\Faculdade\\Programa\u00E7\u00E3o I\\Prog_1\\Aulas\\Aula05\\Repository\\CustomerRepository.cs",
-              "RelativeDocumentMoniker": "Repository\\CustomerRepository.cs",
-              "ToolTip": "C:\\Users\\PICHAU\\Desktop\\Faculdade\\Programa\u00E7\u00E3o I\\Prog_1\\Aulas\\Aula05\\Repository\\CustomerRepository.cs",
-              "RelativeToolTip": "Repository\\CustomerRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T23:48:17.981Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\PICHAU\\Desktop\\Faculdade\\Programa\u00E7\u00E3o I\\Prog_1\\Aulas\\Aula05\\Repository\\ProductRepository.cs",
-              "RelativeDocumentMoniker": "Repository\\ProductRepository.cs",
-              "ToolTip": "C:\\Users\\PICHAU\\Desktop\\Faculdade\\Programa\u00E7\u00E3o I\\Prog_1\\Aulas\\Aula05\\Repository\\ProductRepository.cs",
-              "RelativeToolTip": "Repository\\ProductRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T01:00:49.142Z"
             },
             {
               "$type": "Bookmark",
