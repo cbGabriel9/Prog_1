@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Modelo;
 using Repository;
+using System.Security.Cryptography.X509Certificates;
 
 
 namespace Aula05.Controllers
@@ -77,8 +78,21 @@ namespace Aula05.Controllers
                     sw.Write(fileContent);
                 }
             }
-
             return View();
+        }
+
+        [HttpGet]
+        public IActionResult Delete(int? id)
+        {
+            if (id is null || id.Value <= 0)
+                return NotFound();
+
+            Customer customer = _customerRepository.Retrieve(id.Value);
+
+            if (customer == null)
+                return NotFound();
+
+            return View(customer);
         }
     }
 }
