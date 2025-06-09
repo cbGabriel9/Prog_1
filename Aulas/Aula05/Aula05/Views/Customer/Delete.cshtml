@@ -20,6 +20,18 @@
     </div>
 
     <div class="row">
-        <a asp-action="Index" asp-controller="Customer" class="btn btn-danger">Voltar</a>
+        <div class="col-12">
+        <form method="POST" asp-action="ConfirmDelete" asp-controller="Customer">
+            <input type="hidden" name="id" value="@Model.Id"/>
+
+            <button class="btn btn-primary">
+                Excluir
+            </button>
+
+            <a asp-action="Index" asp-controller="Customer" class="btn btn-danger">Voltar</a>
+        </form>
+        </div>
+
+            
     </div>
 </div>

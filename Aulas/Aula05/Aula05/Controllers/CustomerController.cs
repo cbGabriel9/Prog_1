@@ -84,7 +84,7 @@ namespace Aula05.Controllers
         [HttpGet]
         public IActionResult Delete(int? id)
         {
-            if (id is null || id.Value <= 0)
+            if (id is null || id.Value < 0)
                 return NotFound();
 
             Customer customer = _customerRepository.Retrieve(id.Value);
@@ -93,6 +93,20 @@ namespace Aula05.Controllers
                 return NotFound();
 
             return View(customer);
+        }
+
+        [HttpPost]
+        public IActionResult ConfirmDelete(int? id)
+        {
+            if (id is null || id.Value < 0)
+                return NotFound();
+
+            if(!_customerRepository.DeleteById(id.Value))
+                return NotFound();
+
+            
+
+            return RedirectToAction("Index");
         }
     }
 }

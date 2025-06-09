@@ -7,8 +7,6 @@
         public Address? HomeAddress { get; set; }
         public Address? WorkAddress { get; set; }
 
-
-
         public static int InstanceCount = 0;
         public int ObjectCount = 0;
 
