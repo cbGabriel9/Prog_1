@@ -77,9 +77,53 @@ namespace Aula05.Controllers
                 }
             }
 
-
-
             return View();
+        }
+
+        [HttpGet]
+        public IActionResult Delete(int? id)
+        {
+            if (id is null || id.Value < 0)
+                return NotFound();
+
+            Product product = _productRepository.Retrieve(id.Value);
+
+            if (product == null)
+                return NotFound();
+
+            return View(product);
+        }
+
+        [HttpPost]
+        public IActionResult ConfirmDelete(int? id)
+        {
+            if (id is null || id.Value < 0)
+                return NotFound();
+
+            if (!_productRepository.DeleteById(id.Value))
+                return NotFound();
+
+
+
+            return RedirectToAction("Index");
+        }
+
+        public IActionResult Update(int? id)
+        {
+            if (id is null || id.Value < 0)
+                return NotFound();
+
+            Product product = _productRepository.Retrieve(id.Value);
+
+            if (product == null)
+                return NotFound();
+
+            return View(product);
+        }
+
+        public IActionResult ConfirmUpdate(int? id)
+        {
+
         }
     }
 }

@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Modelo;
 using Repository;
+using System.IO;
 using System.Security.Cryptography.X509Certificates;
 
 
@@ -56,29 +57,36 @@ namespace Aula05.Controllers
                 fileContent += $"{c.Id}; {c.Name}; { c.HomeAddress!.Id}; {c.HomeAddress.City}; {c.HomeAddress.StateProvince}; {c.HomeAddress.Country}; {c.HomeAddress.StreetLine1}; {c.HomeAddress.StreetLine2}; {c.HomeAddress.PostalCode}; {c.HomeAddress.AddressType} \n";
             }
 
-            var path = Path.Combine(
-                environment.WebRootPath,
-                "TextFiles"
-                );
+            SaveFile(fileContent, "DelimitedFile.txt");
 
-            if(!System.IO.Directory.Exists(path))
-            {
-                System.IO.Directory.CreateDirectory(path);
-            }
-
-            var filepath = Path.Combine(
-                path,
-                "Delimitado.txt"
-                );
-
-            if (!System.IO.File.Exists( filepath )) // Vai verificar se o arquivo que estamos criando já não existe
-            {
-                using (StreamWriter sw = System.IO.File.CreateText(filepath))
-                {
-                    sw.Write(fileContent);
-                }
-            }
             return View();
+        }
+
+        [HttpGet]
+        public IActionResult ExportFixedFile()
+        {
+            string fileContent = string.Empty;
+
+            foreach (Customer c in CustomerData.Customers)
+            {
+                fileContent +=
+                    String.Format("{0:5}", c.Id) +
+                    String.Format("{0:64}", c.Name) +
+                    String.Format("{0:5}", c.HomeAddress!.Id) +
+                    String.Format("{0:32}", c.HomeAddress.City) +
+                    String.Format("{0:2}", c.HomeAddress.StateProvince) +
+                    String.Format("{0:32}", c.HomeAddress.Country) +
+                    String.Format("{0:64}", c.HomeAddress.StreetLine1) +
+                    String.Format("{0:64}", c.HomeAddress.StreetLine2) +
+                    String.Format("{0:9}", c.HomeAddress.PostalCode) +
+                    String.Format("{0:16}", c.HomeAddress.AddressType) +
+                    "\n";
+            }
+
+            SaveFile(fileContent, "FixedFile.txt");
+
+            return RedirectToAction("Index");
+
         }
 
         [HttpGet]
@@ -107,6 +115,53 @@ namespace Aula05.Controllers
             
 
             return RedirectToAction("Index");
+        }
+
+        private bool SaveFile(string content, string fileName)
+        {
+            bool ret = true;
+
+            if (string.IsNullOrEmpty(content) || string.IsNullOrEmpty(fileName))
+                return false;
+
+            var path = Path.Combine(
+                environment.WebRootPath,
+                "TextFiles"
+                );
+
+            try
+            {
+
+                if (!System.IO.Directory.Exists(path))
+                {
+                    System.IO.Directory.CreateDirectory(path);
+                }
+
+                var filepath = Path.Combine(
+                    path,
+                    fileName
+                    );
+
+                if (!System.IO.File.Exists(filepath)) // Vai verificar se o arquivo que estamos criando já não existe
+                {
+                    using (StreamWriter sw = System.IO.File.CreateText(filepath))
+                    {
+                        sw.Write(content);
+                    }
+                }
+            }
+
+            catch (IOException ioEx)
+            {
+                string msg = ioEx.Message;
+                ret = false;
+            }
+            catch (Exception ex)
+            {
+                string msg = ex.Message;
+                ret = false;
+            }
+            return ret;
         }
     }
 }

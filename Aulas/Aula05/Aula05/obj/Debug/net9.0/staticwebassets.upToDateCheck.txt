@@ -37,6 +37,8 @@ C:\Prog_1\Aulas\Aula05\Aula05\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
 C:\Prog_1\Aulas\Aula05\Aula05\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
 C:\Prog_1\Aulas\Aula05\Aula05\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
 C:\Prog_1\Aulas\Aula05\Aula05\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+C:\Prog_1\Aulas\Aula05\Aula05\wwwroot\TextFiles\DelimitedFile.txt
+C:\Prog_1\Aulas\Aula05\Aula05\wwwroot\TextFiles\FixedFile.txt
 C:\Prog_1\Aulas\Aula05\Aula05\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
 C:\Prog_1\Aulas\Aula05\Aula05\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
 C:\Prog_1\Aulas\Aula05\Aula05\wwwroot\lib\jquery-validation\dist\jquery.validate.js
@@ -125,3 +127,5 @@ wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
 wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
 wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
 wwwroot\TextFiles\Delimitado.txt
+wwwroot\TextFiles\DelimitedFile.txt
+wwwroot\TextFiles\FixedFile.txt

@@ -10,6 +10,7 @@
                 <th>Id</th>
                 <th>Nome</th>
                 <th></th>
+                <th></th>
             </tr>
         </thead>
         <tbody>
@@ -21,6 +22,11 @@
                     <td>
                         <a asp-action="Delete" asp-controller="Customer" asp-route-id="@customer.Id" title="Excluir Customer">
                             <i class="fa-solid fa-trash"></i>
+                        </a>
+                    </td>
+                    <td>
+                        <a asp-action="Update" asp-controller="Customer" asp-route-id="@customer.Id" title="Editar Customer">
+                            <i class="fa-solid fa-pen"></i>
                         </a>
                     </td>
                 </tr>           
@@ -36,4 +42,7 @@ else
 }
 
 <a asp-action="ExportDelimitatedFile"
-   asp-controller="Customer" class="btn btn-Light">Exportar Dados</a>
+   asp-controller="Customer" class="btn btn-Light">Exportar Dados Delimitados</a>
+
+<a asp-action="ExportFixedFile"
+   asp-controller="Customer" class="btn btn-Light">Exportar Dados Fixos</a>

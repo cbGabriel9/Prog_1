@@ -1,5 +1,49 @@
-﻿@*
-    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
-*@
-@{
-}
+﻿@model Modelo.Customer;
+
+<div class="container">
+    <div class="row">
+        <div class="col-6">
+            Nome:
+        </div>
+        <div class="col-6">
+            @Model.Name
+        </div>
+  
+        <div class="col-6">
+            Cidade:
+        </div>
+        <div class="col-6">
+            @Model.HomeAddress!.City
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-6">
+            Estado/Província:
+        </div>
+        <div class="col-6">
+            @Model.HomeAddress!.StateProvince
+        </div>
+  
+        <div class="col-6">
+            Cidade:
+        </div>
+        <div class="col-6">
+            @Model.HomeAddress!.StreetLine1
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-12">
+            <form method="POST" asp-action="ConfirmUpdate" asp-controller="Product">
+                <input type="hidden" name="id" value="@Model.Id" />
+
+                <button class="btn btn-primary">
+                    Salvar
+                </button>
+
+                <a asp-action="Index" asp-controller="Product" class="btn btn-danger">Voltar</a>
+            </form>
+        </div>
+    </div>
+</div>

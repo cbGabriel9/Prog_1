@@ -3,18 +3,6 @@
   "WorkspaceRootPath": "C:\\Prog_1\\Aulas\\Aula05\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6C6733E8-0A0C-472C-868E-37F05ED00030}|Aula05\\Aula05.csproj|c:\\prog_1\\aulas\\aula05\\aula05\\views\\customer\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6C6733E8-0A0C-472C-868E-37F05ED00030}|Aula05\\Aula05.csproj|solutionrelative:aula05\\views\\customer\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0F20376D-657A-41F0-9C5C-8727DC96253A}|Modelo\\Modelo.csproj|c:\\prog_1\\aulas\\aula05\\modelo\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F20376D-657A-41F0-9C5C-8727DC96253A}|Modelo\\Modelo.csproj|solutionrelative:modelo\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C6733E8-0A0C-472C-868E-37F05ED00030}|Aula05\\Aula05.csproj|c:\\prog_1\\aulas\\aula05\\aula05\\views\\customer\\import.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6C6733E8-0A0C-472C-868E-37F05ED00030}|Aula05\\Aula05.csproj|solutionrelative:aula05\\views\\customer\\import.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6C6733E8-0A0C-472C-868E-37F05ED00030}|Aula05\\Aula05.csproj|c:\\prog_1\\aulas\\aula05\\aula05\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6C6733E8-0A0C-472C-868E-37F05ED00030}|Aula05\\Aula05.csproj|solutionrelative:aula05\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -23,8 +11,28 @@
       "RelativeMoniker": "D:0:0:{6C6733E8-0A0C-472C-868E-37F05ED00030}|Aula05\\Aula05.csproj|solutionrelative:aula05\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C6733E8-0A0C-472C-868E-37F05ED00030}|Aula05\\Aula05.csproj|c:\\prog_1\\aulas\\aula05\\aula05\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6C6733E8-0A0C-472C-868E-37F05ED00030}|Aula05\\Aula05.csproj|solutionrelative:aula05\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{6C6733E8-0A0C-472C-868E-37F05ED00030}|Aula05\\Aula05.csproj|c:\\prog_1\\aulas\\aula05\\aula05\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C6733E8-0A0C-472C-868E-37F05ED00030}|Aula05\\Aula05.csproj|solutionrelative:aula05\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6733E8-0A0C-472C-868E-37F05ED00030}|Aula05\\Aula05.csproj|c:\\prog_1\\aulas\\aula05\\aula05\\views\\customer\\exportdelimitatedfile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C6733E8-0A0C-472C-868E-37F05ED00030}|Aula05\\Aula05.csproj|solutionrelative:aula05\\views\\customer\\exportdelimitatedfile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6733E8-0A0C-472C-868E-37F05ED00030}|Aula05\\Aula05.csproj|c:\\prog_1\\aulas\\aula05\\aula05\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C6733E8-0A0C-472C-868E-37F05ED00030}|Aula05\\Aula05.csproj|solutionrelative:aula05\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6733E8-0A0C-472C-868E-37F05ED00030}|Aula05\\Aula05.csproj|c:\\prog_1\\aulas\\aula05\\aula05\\views\\customer\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C6733E8-0A0C-472C-868E-37F05ED00030}|Aula05\\Aula05.csproj|solutionrelative:aula05\\views\\customer\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F20376D-657A-41F0-9C5C-8727DC96253A}|Modelo\\Modelo.csproj|c:\\prog_1\\aulas\\aula05\\modelo\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F20376D-657A-41F0-9C5C-8727DC96253A}|Modelo\\Modelo.csproj|solutionrelative:modelo\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6733E8-0A0C-472C-868E-37F05ED00030}|Aula05\\Aula05.csproj|c:\\prog_1\\aulas\\aula05\\aula05\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C6733E8-0A0C-472C-868E-37F05ED00030}|Aula05\\Aula05.csproj|solutionrelative:aula05\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,88 +42,114 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExportDelimitatedFile.cshtml",
+              "DocumentMoniker": "C:\\Prog_1\\Aulas\\Aula05\\Aula05\\Views\\Customer\\ExportDelimitatedFile.cshtml",
+              "RelativeDocumentMoniker": "Aula05\\Views\\Customer\\ExportDelimitatedFile.cshtml",
+              "ToolTip": "C:\\Prog_1\\Aulas\\Aula05\\Aula05\\Views\\Customer\\ExportDelimitatedFile.cshtml",
+              "RelativeToolTip": "Aula05\\Views\\Customer\\ExportDelimitatedFile.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-10T00:18:53.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Prog_1\\Aulas\\Aula05\\Aula05\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "Aula05\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Prog_1\\Aulas\\Aula05\\Aula05\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "Aula05\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-10T00:00:35.997Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Prog_1\\Aulas\\Aula05\\Aula05\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Aula05\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Prog_1\\Aulas\\Aula05\\Aula05\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Aula05\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAQAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-09T23:08:31.912Z",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Prog_1\\Aulas\\Aula05\\Modelo\\Product.cs",
+              "RelativeDocumentMoniker": "Modelo\\Product.cs",
+              "ToolTip": "C:\\Prog_1\\Aulas\\Aula05\\Modelo\\Product.cs",
+              "RelativeToolTip": "Modelo\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T23:51:09.071Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Prog_1\\Aulas\\Aula05\\Aula05\\Views\\Product\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Aula05\\Views\\Product\\Delete.cshtml",
+              "ToolTip": "C:\\Prog_1\\Aulas\\Aula05\\Aula05\\Views\\Product\\Delete.cshtml",
+              "RelativeToolTip": "Aula05\\Views\\Product\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-09T23:47:57.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Prog_1\\Aulas\\Aula05\\Aula05\\Views\\Customer\\Index.cshtml",
               "RelativeDocumentMoniker": "Aula05\\Views\\Customer\\Index.cshtml",
               "ToolTip": "C:\\Prog_1\\Aulas\\Aula05\\Aula05\\Views\\Customer\\Index.cshtml",
               "RelativeToolTip": "Aula05\\Views\\Customer\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-06-09T23:01:45.45Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "CustomerController.cs",
               "DocumentMoniker": "C:\\Prog_1\\Aulas\\Aula05\\Aula05\\Controllers\\CustomerController.cs",
               "RelativeDocumentMoniker": "Aula05\\Controllers\\CustomerController.cs",
               "ToolTip": "C:\\Prog_1\\Aulas\\Aula05\\Aula05\\Controllers\\CustomerController.cs",
               "RelativeToolTip": "Aula05\\Controllers\\CustomerController.cs",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAmwGQAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAD0AAAAAAAAAAADwv1MAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-09T22:48:33.295Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Customer.cs",
-              "DocumentMoniker": "C:\\Prog_1\\Aulas\\Aula05\\Modelo\\Customer.cs",
-              "RelativeDocumentMoniker": "Modelo\\Customer.cs",
-              "ToolTip": "C:\\Prog_1\\Aulas\\Aula05\\Modelo\\Customer.cs",
-              "RelativeToolTip": "Modelo\\Customer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAxAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Prog_1\\Aulas\\Aula05\\Aula05\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Aula05\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Prog_1\\Aulas\\Aula05\\Aula05\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Aula05\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAiwF0AAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T22:39:19.731Z",
+              "WhenOpened": "2025-06-09T23:55:25.205Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Prog_1\\Aulas\\Aula05\\Aula05\\Views\\Customer\\Delete.cshtml",
               "RelativeDocumentMoniker": "Aula05\\Views\\Customer\\Delete.cshtml",
               "ToolTip": "C:\\Prog_1\\Aulas\\Aula05\\Aula05\\Views\\Customer\\Delete.cshtml",
               "RelativeToolTip": "Aula05\\Views\\Customer\\Delete.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-06-09T22:36:07.203Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Import.cshtml",
-              "DocumentMoniker": "C:\\Prog_1\\Aulas\\Aula05\\Aula05\\Views\\Customer\\Import.cshtml",
-              "RelativeDocumentMoniker": "Aula05\\Views\\Customer\\Import.cshtml",
-              "ToolTip": "C:\\Prog_1\\Aulas\\Aula05\\Aula05\\Views\\Customer\\Import.cshtml",
-              "RelativeToolTip": "Aula05\\Views\\Customer\\Import.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-03T01:01:40.014Z",
               "EditorCaption": ""
             }
           ]
