@@ -123,7 +123,7 @@ namespace Aula05.Controllers
 
         public IActionResult ConfirmUpdate(int? id)
         {
-
+            return View();
         }
     }
 }

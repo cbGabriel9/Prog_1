@@ -1,35 +1,43 @@
-﻿@model Modelo.Customer;
+﻿@model Modelo.Product
 
 <div class="container">
     <div class="row">
         <div class="col-6">
-            Nome:
+            Id:
         </div>
+
         <div class="col-6">
-            @Model.Name
-        </div>
-  
-        <div class="col-6">
-            Cidade:
-        </div>
-        <div class="col-6">
-            @Model.HomeAddress!.City
+            <input type="number" value="Id" placeholder="@Model.Id"/>
         </div>
     </div>
 
     <div class="row">
         <div class="col-6">
-            Estado/Província:
+            Nome:
         </div>
+
         <div class="col-6">
-            @Model.HomeAddress!.StateProvince
+            <input type="text" value="ProductName" placeholder="@Model.ProductName"/>
         </div>
-  
+    </div>
+
+    <div class="row">
         <div class="col-6">
-            Cidade:
+            Descrição:
         </div>
+
         <div class="col-6">
-            @Model.HomeAddress!.StreetLine1
+            <input type="text" value="Description" placeholder="@Model.Description"/>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-6">
+            Preço atual:
+        </div>
+
+        <div class="col-6">
+            <input type="number" value="CurrentPrice" placeholder="@Model.CurrentPrice"/>
         </div>
     </div>
 

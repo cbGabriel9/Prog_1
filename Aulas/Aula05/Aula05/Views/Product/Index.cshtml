@@ -10,6 +10,7 @@
                 <th>Id</th>
                 <th>Nome</th>
                 <th></th>
+                <th></th>
             </tr>
         </thead>
         <tbody>
@@ -19,8 +20,13 @@
                     <td>@product.Id</td>
                     <td>@product.ProductName</td>
                     <td>
-                        <a asp-action="Delete" asp-controller="Product" asp-route-id="@product.Id" title="Excluir Customer">
+                        <a asp-action="Delete" asp-controller="Product" asp-route-id="@product.Id" title="Excluir Product">
                             <i class="fa-solid fa-trash"></i>
+                        </a>
+                    </td>
+                    <td>
+                        <a asp-action="Update" asp-controller="Product" asp-route-id="@product.Id" title="Atualizar Product">
+                            <i class="fa fa-pencil" aria-hidden="true"></i>
                         </a>
                     </td>
                 </tr>
