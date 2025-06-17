@@ -306,8 +306,7 @@ C:\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\xesg0hqqcd-m9qm4tazc0.
 C:\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\cdqk5nsn2h-jjsuc0puko.gz
 C:\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\02wzjps1l6-9vr69e8ynj.gz
 C:\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\staticwebassets.build.json.cache
-C:\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\6yvihjgntk-axk019a4le.gz
 C:\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\jptjxy5g7j-0ztidwl4q2.gz
-C:\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\k6c7lc5cqh-egcsi3r2iz.gz
 C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\jptjxy5g7j-wapwcpauvq.gz
 C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\k6c7lc5cqh-31k4xxwapd.gz
+C:\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\k6c7lc5cqh-p1jfoocser.gz

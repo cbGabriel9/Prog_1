@@ -1,0 +1,56 @@
+﻿@model Aula05.ViewModels.OrderViewModel;
+
+@{
+    ViewData["Title"] = "Criar Pedido";
+}
+
+<div class="text-center">
+    <h1>Cadastro de Pedido</h1>
+
+    <div class="container">
+        <form id="formOrder" method="post" asp-action="Create" asp-controller="Order">
+            <div class="row">
+                <div class="form-group">
+                    <label asp-for="@Model.CustomerId">Cliente:</label>
+                    <select asp-for="@Model.CustomerId" class="form-select">
+                         @foreach (var c in Model.Customers)
+                        {
+                            <option value="@c.Id">@c.Name</option>
+                        }
+                    </select>
+                </div>
+            </div>
+
+            <table class="table table-striped table-bordered table-hover">
+                <thead class="table-dark">
+                    <tr>
+                        <th></th>
+                        <th>Item</th>
+                        <th>Qtde</th>
+                        <th>Valor</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var p in Model.SelectedItems!)
+                    {
+                        <tr>
+                            <td>
+                                <input type="checkbox" value="@p.IsSelected"/>
+                            </td>
+                            <td>@p.OrderItem.Product!.ProductName</td>
+                            <td>
+                                <input type="number" value="@p.OrderItem.Quantity"/>
+                            </td>
+                            <td>
+                                <input type="text" value="@p.OrderItem.PurchasePrice" />
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+
+            <button id="btnCustomer" type="submit" class="btn btn-primary" value="Cadastrar">Cadastrar</button>
+        </form>
+
+    </div>
+</div>
