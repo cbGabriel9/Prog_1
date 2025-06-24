@@ -24,26 +24,34 @@
             <table class="table table-striped table-bordered table-hover">
                 <thead class="table-dark">
                     <tr>
-                        <th></th>
+                        <th>Selecionar</th>
                         <th>Item</th>
                         <th>Qtde</th>
-                        <th>Valor</th>
+                        <th>Val. Unit.</th>
+                        <th>Val. Tot.</th>
                     </tr>
                 </thead>
                 <tbody>
-                    @foreach (var p in Model.SelectedItems!)
+                    @for (int i = 0; i < Model.SelectedItems!.Count; i++)
                     {
                         <tr>
                             <td>
-                                <input type="checkbox" value="@p.IsSelected"/>
-                            </td>
-                            <td>@p.OrderItem.Product!.ProductName</td>
-                            <td>
-                                <input type="number" value="@p.OrderItem.Quantity"/>
+                                <input asp-for="@Model.SelectedItems[i].IsSelected"/>
                             </td>
                             <td>
-                                <input type="text" value="@p.OrderItem.PurchasePrice" />
+                                <span>@Model.SelectedItems[i].OrderItem.Product!.ProductName</span>
                             </td>
+                            <td>
+                                <input type="number" asp-for="@Model.SelectedItems[i].OrderItem.Quantity" />
+                            </td>
+                            <td>
+                                <span>@string.Format("{0:C}", Model.SelectedItems[i].OrderItem.Product!.CurrentPrice)</span>
+                            </td>
+                            <td>
+                                <input type="number" asp-for="@Model.SelectedItems[i].OrderItem.PurchasePrice" />
+                            </td>
+
+                                <input type="hidden" asp-for="@Model.SelectedItems[i].OrderItem.Product!.Id" />
                         </tr>
                     }
                 </tbody>

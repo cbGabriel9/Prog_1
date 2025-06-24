@@ -1,6 +1,7 @@
 ﻿using Aula05.ViewModels;
 using Microsoft.AspNetCore.Http.Features;
 using Microsoft.AspNetCore.Mvc;
+using Modelo;
 using Repository;
 
 namespace Aula05.Controllers
@@ -50,6 +51,36 @@ namespace Aula05.Controllers
             viewModel.SelectedItems = item;
 
             return View(viewModel);
+        }
+
+        [HttpPost]
+        public IActionResult Create(OrderViewModel model)
+        {
+            Order order = new();
+            order.Customer = _customerRepository.Retrieve(model.CustomerId!.Value);
+            order.OrderDate = DateTime.Now;
+
+            int count = 1;
+            foreach (var item in model.SelectedItems!)
+            {
+                if(item.IsSelected)
+                {
+                    order.OrderItems!.Add(
+                        new OrderItem
+                        {
+                            Id = count,
+                            Product = _productRepository.Retrieve(item.OrderItem.Product!.Id),
+                            Quantity = item.OrderItem.Quantity,
+                            PurchasePrice = item.OrderItem.PurchasePrice
+                        }
+                    );
+                    count++;
+                }
+            }
+
+            _orderRepository.Save(order);
+
+            return RedirectToAction("Index");
         }
     }
 }

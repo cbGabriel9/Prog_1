@@ -64,6 +64,7 @@ static void FillProductData()
     for (int i = 1; i <= 10; i++)
     {
         Product product = new()
+
         {
             Id = i,
             ProductName = $"Product {i}",
@@ -74,3 +75,5 @@ static void FillProductData()
         CustomerData.Products.Add(product);
     }
 }
+
+
