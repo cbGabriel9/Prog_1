@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Prog_1\\Atividades\\GerenciamentoImoveis\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD19C5BD-ECB3-44DE-820C-BA3A39BC19D9}|GerenciamentoImoveis\\GerenciamentoImoveis.csproj|c:\\prog_1\\atividades\\gerenciamentoimoveis\\gerenciamentoimoveis\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD19C5BD-ECB3-44DE-820C-BA3A39BC19D9}|GerenciamentoImoveis\\GerenciamentoImoveis.csproj|solutionrelative:gerenciamentoimoveis\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD19C5BD-ECB3-44DE-820C-BA3A39BC19D9}|GerenciamentoImoveis\\GerenciamentoImoveis.csproj|c:\\prog_1\\atividades\\gerenciamentoimoveis\\gerenciamentoimoveis\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD19C5BD-ECB3-44DE-820C-BA3A39BC19D9}|GerenciamentoImoveis\\GerenciamentoImoveis.csproj|solutionrelative:gerenciamentoimoveis\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 227,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Prog_1\\Atividades\\GerenciamentoImoveis\\GerenciamentoImoveis\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "GerenciamentoImoveis\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Prog_1\\Atividades\\GerenciamentoImoveis\\GerenciamentoImoveis\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "GerenciamentoImoveis\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-24T00:44:57.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Prog_1\\Atividades\\GerenciamentoImoveis\\GerenciamentoImoveis\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "GerenciamentoImoveis\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Prog_1\\Atividades\\GerenciamentoImoveis\\GerenciamentoImoveis\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "GerenciamentoImoveis\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-24T00:42:27.585Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

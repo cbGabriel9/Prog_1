@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Prog_1\\Aulas\\Aula05\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6C6733E8-0A0C-472C-868E-37F05ED00030}|Aula05\\Aula05.csproj|c:\\prog_1\\aulas\\aula05\\aula05\\views\\order\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C6733E8-0A0C-472C-868E-37F05ED00030}|Aula05\\Aula05.csproj|solutionrelative:aula05\\views\\order\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6733E8-0A0C-472C-868E-37F05ED00030}|Aula05\\Aula05.csproj|c:\\prog_1\\aulas\\aula05\\aula05\\views\\customer\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C6733E8-0A0C-472C-868E-37F05ED00030}|Aula05\\Aula05.csproj|solutionrelative:aula05\\views\\customer\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6C6733E8-0A0C-472C-868E-37F05ED00030}|Aula05\\Aula05.csproj|c:\\prog_1\\aulas\\aula05\\aula05\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6C6733E8-0A0C-472C-868E-37F05ED00030}|Aula05\\Aula05.csproj|solutionrelative:aula05\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C6733E8-0A0C-472C-868E-37F05ED00030}|Aula05\\Aula05.csproj|c:\\prog_1\\aulas\\aula05\\aula05\\views\\order\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6C6733E8-0A0C-472C-868E-37F05ED00030}|Aula05\\Aula05.csproj|solutionrelative:aula05\\views\\order\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6C6733E8-0A0C-472C-868E-37F05ED00030}|Aula05\\Aula05.csproj|c:\\prog_1\\aulas\\aula05\\aula05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6C6733E8-0A0C-472C-868E-37F05ED00030}|Aula05\\Aula05.csproj|solutionrelative:aula05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C6733E8-0A0C-472C-868E-37F05ED00030}|Aula05\\Aula05.csproj|c:\\prog_1\\aulas\\aula05\\aula05\\views\\order\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6C6733E8-0A0C-472C-868E-37F05ED00030}|Aula05\\Aula05.csproj|solutionrelative:aula05\\views\\order\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6C6733E8-0A0C-472C-868E-37F05ED00030}|Aula05\\Aula05.csproj|c:\\prog_1\\aulas\\aula05\\aula05\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 227,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -40,18 +40,17 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Prog_1\\Aulas\\Aula05\\Aula05\\Views\\Order\\Delete.cshtml",
-              "RelativeDocumentMoniker": "Aula05\\Views\\Order\\Delete.cshtml",
-              "ToolTip": "C:\\Prog_1\\Aulas\\Aula05\\Aula05\\Views\\Order\\Delete.cshtml",
-              "RelativeToolTip": "Aula05\\Views\\Order\\Delete.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAMAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Prog_1\\Aulas\\Aula05\\Aula05\\Views\\Customer\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Aula05\\Views\\Customer\\Delete.cshtml",
+              "ToolTip": "C:\\Prog_1\\Aulas\\Aula05\\Aula05\\Views\\Customer\\Delete.cshtml",
+              "RelativeToolTip": "Aula05\\Views\\Customer\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-24T00:15:21.106Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-24T00:24:37.74Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Prog_1\\Aulas\\Aula05\\Aula05\\Views\\Order\\Index.cshtml",
               "RelativeDocumentMoniker": "Aula05\\Views\\Order\\Index.cshtml",
@@ -59,12 +58,11 @@
               "RelativeToolTip": "Aula05\\Views\\Order\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-23T23:44:23.677Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-23T23:44:23.677Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Prog_1\\Aulas\\Aula05\\Aula05\\Program.cs",
               "RelativeDocumentMoniker": "Aula05\\Program.cs",
@@ -72,18 +70,17 @@
               "RelativeToolTip": "Aula05\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T22:32:23.164Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-23T22:32:23.164Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Prog_1\\Aulas\\Aula05\\Aula05\\Views\\Order\\Create.cshtml",
               "RelativeDocumentMoniker": "Aula05\\Views\\Order\\Create.cshtml",
               "ToolTip": "C:\\Prog_1\\Aulas\\Aula05\\Aula05\\Views\\Order\\Create.cshtml",
               "RelativeToolTip": "Aula05\\Views\\Order\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-06-17T00:41:29.326Z",
               "EditorCaption": ""
@@ -98,8 +95,7 @@
               "RelativeToolTip": "Aula05\\Controllers\\OrderController.cs",
               "ViewState": "AgIAADUAAAAAAAAAAAAwwDoAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T22:29:57.003Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-16T22:29:57.003Z"
             }
           ]
         }

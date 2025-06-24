@@ -33,6 +33,10 @@
           "SelectedChildIndex": 4,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Delete.cshtml",
@@ -42,12 +46,7 @@
               "RelativeToolTip": "Aula05\\Views\\Customer\\Delete.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-24T00:24:37.74Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "WhenOpened": "2025-06-24T00:24:37.74Z"
             },
             {
               "$type": "Document",
@@ -59,8 +58,7 @@
               "RelativeToolTip": "Aula05\\Views\\Order\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-23T23:44:23.677Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-23T23:44:23.677Z"
             },
             {
               "$type": "Document",
@@ -72,8 +70,7 @@
               "RelativeToolTip": "Aula05\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T22:32:23.164Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-23T22:32:23.164Z"
             },
             {
               "$type": "Document",
@@ -83,7 +80,7 @@
               "RelativeDocumentMoniker": "Aula05\\Views\\Order\\Create.cshtml",
               "ToolTip": "C:\\Prog_1\\Aulas\\Aula05\\Aula05\\Views\\Order\\Create.cshtml",
               "RelativeToolTip": "Aula05\\Views\\Order\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-06-17T00:41:29.326Z",
               "EditorCaption": ""
@@ -98,8 +95,7 @@
               "RelativeToolTip": "Aula05\\Controllers\\OrderController.cs",
               "ViewState": "AgIAADUAAAAAAAAAAAAwwDoAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T22:29:57.003Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-16T22:29:57.003Z"
             }
           ]
         }
