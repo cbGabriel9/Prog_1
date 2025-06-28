@@ -262,12 +262,6 @@ C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\obj
 C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\staticwebassets.build.json
 C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\staticwebassets.development.json
 C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\staticwebassets.build.endpoints.json
-C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\staticwebassets\msbuild.Aula05.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\staticwebassets\msbuild.Aula05.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
-C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\staticwebassets\msbuild.build.Aula05.props
-C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Aula05.props
-C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Aula05.props
-C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\staticwebassets.pack.json
 C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
 C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\Aula05.csproj.Up2Date
 C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\Aula05.dll
@@ -310,3 +304,8 @@ C:\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\jptjxy5g7j-0ztidwl4q2.
 C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\jptjxy5g7j-wapwcpauvq.gz
 C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\k6c7lc5cqh-31k4xxwapd.gz
 C:\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\compressed\k6c7lc5cqh-p1jfoocser.gz
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\obj\Debug\net9.0\staticwebassets.build.json.cache

@@ -1,0 +1,12 @@
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Atividades\GerenciamentoImoveis\Modelo\bin\Debug\net9.0\Modelo.deps.json
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Atividades\GerenciamentoImoveis\Modelo\bin\Debug\net9.0\Modelo.dll
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Atividades\GerenciamentoImoveis\Modelo\bin\Debug\net9.0\Modelo.pdb
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Atividades\GerenciamentoImoveis\Modelo\obj\Debug\net9.0\Modelo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Atividades\GerenciamentoImoveis\Modelo\obj\Debug\net9.0\Modelo.AssemblyInfoInputs.cache
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Atividades\GerenciamentoImoveis\Modelo\obj\Debug\net9.0\Modelo.AssemblyInfo.cs
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Atividades\GerenciamentoImoveis\Modelo\obj\Debug\net9.0\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Atividades\GerenciamentoImoveis\Modelo\obj\Debug\net9.0\Modelo.sourcelink.json
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Atividades\GerenciamentoImoveis\Modelo\obj\Debug\net9.0\Modelo.dll
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Atividades\GerenciamentoImoveis\Modelo\obj\Debug\net9.0\refint\Modelo.dll
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Atividades\GerenciamentoImoveis\Modelo\obj\Debug\net9.0\Modelo.pdb
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Atividades\GerenciamentoImoveis\Modelo\obj\Debug\net9.0\ref\Modelo.dll

@@ -1,0 +1,89 @@
+﻿@model List<Modelo.Property>
+
+<h2 style="color:#F4A460; text-align:center;">Lista de Imóveis</h2>
+
+<style>
+    .property-card {
+        display: flex;
+        flex-wrap: wrap; /* Isso faz quebrar em telas pequenas */
+        background: #fff;
+        border: 1px solid #ddd;
+        border-radius: 8px;
+        box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        margin: 15px 0;
+        overflow: hidden;
+    }
+
+    .property-img {
+        flex: 0 0 220px; /* largura fixa da imagem */
+        height: auto;
+        object-fit: cover;
+        max-width: 100%;
+    }
+
+    .property-content {
+        flex: 1;
+        padding: 15px;
+        min-width: 250px;
+        box-sizing: border-box;
+    }
+
+    .property-title {
+        font-size: 1.2em;
+        font-weight: bold;
+        color: #F4A460;
+        margin-bottom: 10px;
+    }
+
+    .property-details {
+        font-size: 0.95em;
+        color: #333;
+        line-height: 1.4;
+    }
+
+    .property-actions {
+        margin-top: 10px;
+    }
+
+        .property-actions a {
+            margin-right: 10px;
+            text-decoration: none;
+            color: #F4A460;
+            font-weight: bold;
+            font-size: 0.95em;
+        }
+
+            .property-actions a:hover {
+                text-decoration: underline;
+                color: #e38d3c;
+            }
+</style>
+
+@foreach (var property in Model)
+{
+    <div class="property-card">
+        <img src="https://www.kasaimoveislondrina.com.br/themes/2019/img/imovel-sem-foto3.jpg" alt="Imagem do imóvel" class="property-img" />
+
+        <div class="property-content">
+            <div class="property-title">Imóvel #@property.Id - @property.Category</div>
+
+            <div class="property-details">
+                <strong>Valor:</strong> @property.Value<br />
+                <strong>Descrição:</strong> @property.Description<br />
+                <strong>Proprietário:</strong> @property.CurrentOwner<br />
+                <strong>Tipo de Negócio:</strong> @property.BusinessType<br />
+                <strong>Endereço:</strong> @property.Address<br />
+                <strong>M²:</strong> @property.SquareFeet
+            </div>
+
+            <div class="property-actions">
+                <a asp-action="Delete" asp-controller="Property" asp-route-id="@property.Id" title="Excluir">
+                    <i class="fa-solid fa-trash"></i> Excluir
+                </a>
+                <a asp-action="Update" asp-controller="Property" asp-route-id="@property.Id" title="Atualizar">
+                    <i class="fa fa-pencil" aria-hidden="true"></i> Atualizar
+                </a>
+            </div>
+        </div>
+    </div>
+}

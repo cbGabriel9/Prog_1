@@ -1,9 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36127.28 d17.14
+VisualStudioVersion = 17.14.36127.28
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GerenciamentoImoveis", "GerenciamentoImoveis\GerenciamentoImoveis.csproj", "{FD19C5BD-ECB3-44DE-820C-BA3A39BC19D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modelo", "Modelo\Modelo.csproj", "{E35EA212-F2A3-4209-8480-F6CE392A2C4A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repository", "Repository\Repository.csproj", "{F3E013B9-5F35-4264-A934-0807D6637611}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{FD19C5BD-ECB3-44DE-820C-BA3A39BC19D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FD19C5BD-ECB3-44DE-820C-BA3A39BC19D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FD19C5BD-ECB3-44DE-820C-BA3A39BC19D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E35EA212-F2A3-4209-8480-F6CE392A2C4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E35EA212-F2A3-4209-8480-F6CE392A2C4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E35EA212-F2A3-4209-8480-F6CE392A2C4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E35EA212-F2A3-4209-8480-F6CE392A2C4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3E013B9-5F35-4264-A934-0807D6637611}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3E013B9-5F35-4264-A934-0807D6637611}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3E013B9-5F35-4264-A934-0807D6637611}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3E013B9-5F35-4264-A934-0807D6637611}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
