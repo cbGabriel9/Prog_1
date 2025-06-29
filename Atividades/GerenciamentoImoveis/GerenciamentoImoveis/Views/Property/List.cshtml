@@ -1,11 +1,19 @@
 ﻿@model List<Modelo.Property>
 
-<h2 style="color:#F4A460; text-align:center;">Lista de Imóveis</h2>
-
 <style>
+    body{
+                background-color: #F4A460;
+        font-family: Arial, sans-serif;
+    }
+
+    h2{
+        color: white;
+        text-align: center;
+    }
+
     .property-card {
         display: flex;
-        flex-wrap: wrap; /* Isso faz quebrar em telas pequenas */
+        flex-wrap: wrap;
         background: #fff;
         border: 1px solid #ddd;
         border-radius: 8px;
@@ -15,10 +23,11 @@
     }
 
     .property-img {
-        flex: 0 0 220px; /* largura fixa da imagem */
-        height: auto;
+        width: 25vw;
+        height: 32vh;
         object-fit: cover;
-        max-width: 100%;
+        border-radius: 8px 0 0 8px;
+        display: block;
     }
 
     .property-content {
@@ -59,10 +68,19 @@
             }
 </style>
 
+<h2>Lista de Imóveis</h2>
+
 @foreach (var property in Model)
 {
     <div class="property-card">
-        <img src="https://www.kasaimoveislondrina.com.br/themes/2019/img/imovel-sem-foto3.jpg" alt="Imagem do imóvel" class="property-img" />
+        @if(property.PhotoUrl is null)
+        {
+            <img src="https://www.kasaimoveislondrina.com.br/themes/2019/img/imovel-sem-foto3.jpg" alt="Imagem do imóvel" class="property-img" />
+        }
+        else
+        {
+            <img src="@property.PhotoUrl" alt="Imagem do imóvel" class="property-img"/>
+        }
 
         <div class="property-content">
             <div class="property-title">Imóvel #@property.Id - @property.Category</div>
@@ -77,7 +95,8 @@
             </div>
 
             <div class="property-actions">
-                <a asp-action="Delete" asp-controller="Property" asp-route-id="@property.Id" title="Excluir">
+                <a asp-action="Delete" asp-controller="Property" asp-route-id="@property.Id" title="Excluir"
+                   onclick="return confirm('Tem certeza que deseja excluir este imóvel?');">
                     <i class="fa-solid fa-trash"></i> Excluir
                 </a>
                 <a asp-action="Update" asp-controller="Property" asp-route-id="@property.Id" title="Atualizar">

@@ -103,8 +103,6 @@ namespace Aula05.Controllers
             if (!_productRepository.DeleteById(id.Value))
                 return NotFound();
 
-
-
             return RedirectToAction("Index");
         }
 

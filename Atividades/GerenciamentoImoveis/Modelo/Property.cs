@@ -10,5 +10,6 @@
         public string? BusinessType { get; set; }
         public string? Address { get; set; }
         public float SquareFeet { get; set; }
+        public string? PhotoUrl { get; set; }
     }
 }

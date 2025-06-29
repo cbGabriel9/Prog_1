@@ -13,5 +13,18 @@ namespace Repository
         {
             return PropertyData.Properties;
         }
+
+        public Property Retrieve(int id)
+        {
+            foreach (Property p in PropertyData.Properties)
+            {
+                if (p.Id == id)
+                {
+                    return p;
+                }
+            }
+            return null!;
+        }
+
     }
 }
