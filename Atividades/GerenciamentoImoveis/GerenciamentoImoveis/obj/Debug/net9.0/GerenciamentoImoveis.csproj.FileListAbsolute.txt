@@ -196,3 +196,9 @@ C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Atividades\Gerenciament
 C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Atividades\GerenciamentoImoveis\GerenciamentoImoveis\bin\Debug\net9.0\Repository.pdb
 C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Atividades\GerenciamentoImoveis\GerenciamentoImoveis\obj\Debug\net9.0\GerenciamentoImoveis.csproj.AssemblyReference.cache
 C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Atividades\GerenciamentoImoveis\GerenciamentoImoveis\obj\Debug\net9.0\Gerencia.CEF0A383.Up2Date
+C:\Prog_1\Atividades\GerenciamentoImoveis\GerenciamentoImoveis\bin\Debug\net9.0\Modelo.dll
+C:\Prog_1\Atividades\GerenciamentoImoveis\GerenciamentoImoveis\bin\Debug\net9.0\Repository.dll
+C:\Prog_1\Atividades\GerenciamentoImoveis\GerenciamentoImoveis\bin\Debug\net9.0\Modelo.pdb
+C:\Prog_1\Atividades\GerenciamentoImoveis\GerenciamentoImoveis\bin\Debug\net9.0\Repository.pdb
+C:\Prog_1\Atividades\GerenciamentoImoveis\GerenciamentoImoveis\obj\Debug\net9.0\GerenciamentoImoveis.csproj.AssemblyReference.cache
+C:\Prog_1\Atividades\GerenciamentoImoveis\GerenciamentoImoveis\obj\Debug\net9.0\Gerencia.CEF0A383.Up2Date

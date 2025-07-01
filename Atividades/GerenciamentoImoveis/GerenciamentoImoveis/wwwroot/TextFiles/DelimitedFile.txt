@@ -1,0 +1,6 @@
+2; House; Sale; Proprietário 2; 220000; 1700; 2 Main St, Springfield, USA; Imóvel número 2 com características únicas.;  
+3; Farm; Rent; Proprietário 3; 230000; 1800; 3 Main St, Springfield, USA; Imóvel número 3 com características únicas.;  
+4; Commercial Room; Sale; Proprietário 4; 240000; 1900; 4 Main St, Springfield, USA; Imóvel número 4 com características únicas.;  
+5; Apartment; Rent; Proprietário 5; 250000; 2000; 5 Main St, Springfield, USA; Imóvel número 5 com características únicas.;  
+6; House; Sale; Bartolomeu; 54867884; 850000; Rua albquerque, nº 102; Atumalaca; https://tse1.mm.bing.net/th/id/OIP.Y5K5Bq6BPqOUHOhxKR3WbQHaEK?rs=1&pid=ImgDetMain&o=7&rm=3 
+7; House; Sale; bianchi; 25000; 22222; teste; teste; https://th.bing.com/th/id/OIP.WUDRJA4FGFDN-MXLNChr5wHaEs?w=260&h=180&c=7&r=0&o=7&pid=1.7&rm=3 

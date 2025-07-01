@@ -43,7 +43,7 @@ static void FillProperty()
                 CurrentOwner = $"Proprietário {i}",
                 BusinessType = i % 2 == 0 ? "Sale" : "Rent",
                 Address = $"{i} Main St, Springfield, USA",
-                SquareFeet = 1500.0f + (i * 100)
+                SquareMeter = 1500.0f + (i * 100)
             };
 
             PropertyData.Properties.Add(property);

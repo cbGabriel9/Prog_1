@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PICHAU\\Desktop\\Faculdade\\Programação I\\Prog_1\\Aulas\\Aula05\\Modelo\\Modelo.csproj": {}
+    "C:\\Prog_1\\Aulas\\Aula05\\Modelo\\Modelo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PICHAU\\Desktop\\Faculdade\\Programação I\\Prog_1\\Aulas\\Aula05\\Modelo\\Modelo.csproj": {
+    "C:\\Prog_1\\Aulas\\Aula05\\Modelo\\Modelo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PICHAU\\Desktop\\Faculdade\\Programação I\\Prog_1\\Aulas\\Aula05\\Modelo\\Modelo.csproj",
+        "projectUniqueName": "C:\\Prog_1\\Aulas\\Aula05\\Modelo\\Modelo.csproj",
         "projectName": "Modelo",
-        "projectPath": "C:\\Users\\PICHAU\\Desktop\\Faculdade\\Programação I\\Prog_1\\Aulas\\Aula05\\Modelo\\Modelo.csproj",
-        "packagesPath": "C:\\Users\\PICHAU\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PICHAU\\Desktop\\Faculdade\\Programação I\\Prog_1\\Aulas\\Aula05\\Modelo\\obj\\",
+        "projectPath": "C:\\Prog_1\\Aulas\\Aula05\\Modelo\\Modelo.csproj",
+        "packagesPath": "C:\\Users\\431191\\.nuget\\packages\\",
+        "outputPath": "C:\\Prog_1\\Aulas\\Aula05\\Modelo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\PICHAU\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\431191\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -65,7 +66,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

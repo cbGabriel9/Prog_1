@@ -1,64 +1,64 @@
-C:\Prog_1\Aulas\Aula05\Aula05\wwwroot\lib\jquery\dist\jquery.slim.min.js
-C:\Prog_1\Aulas\Aula05\Aula05\wwwroot\lib\bootstrap\dist\css\bootstrap.css
-C:\Prog_1\Aulas\Aula05\Aula05\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
-C:\Prog_1\Aulas\Aula05\Aula05\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
-C:\Prog_1\Aulas\Aula05\Aula05\wwwroot\lib\jquery\dist\jquery.min.map
-C:\Prog_1\Aulas\Aula05\Aula05\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
-C:\Prog_1\Aulas\Aula05\Aula05\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
-C:\Prog_1\Aulas\Aula05\Aula05\wwwroot\lib\jquery\dist\jquery.slim.min.map
-C:\Prog_1\Aulas\Aula05\Aula05\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
-C:\Prog_1\Aulas\Aula05\Aula05\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
-C:\Prog_1\Aulas\Aula05\Aula05\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
-C:\Prog_1\Aulas\Aula05\Aula05\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
-C:\Prog_1\Aulas\Aula05\Aula05\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
-C:\Prog_1\Aulas\Aula05\Aula05\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
-C:\Prog_1\Aulas\Aula05\Aula05\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
-C:\Prog_1\Aulas\Aula05\Aula05\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
-C:\Prog_1\Aulas\Aula05\Aula05\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
-C:\Prog_1\Aulas\Aula05\Aula05\wwwroot\favicon.ico
-C:\Prog_1\Aulas\Aula05\Aula05\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
-C:\Prog_1\Aulas\Aula05\Aula05\wwwroot\lib\jquery\LICENSE.txt
-C:\Prog_1\Aulas\Aula05\Aula05\wwwroot\js\site.js
-C:\Prog_1\Aulas\Aula05\Aula05\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
-C:\Prog_1\Aulas\Aula05\Aula05\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
-C:\Prog_1\Aulas\Aula05\Aula05\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
-C:\Prog_1\Aulas\Aula05\Aula05\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
-C:\Prog_1\Aulas\Aula05\Aula05\wwwroot\lib\jquery\dist\jquery.slim.js
-C:\Prog_1\Aulas\Aula05\Aula05\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
-C:\Prog_1\Aulas\Aula05\Aula05\wwwroot\lib\jquery\dist\jquery.js
-C:\Prog_1\Aulas\Aula05\Aula05\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
-C:\Prog_1\Aulas\Aula05\Aula05\wwwroot\css\site.css
-C:\Prog_1\Aulas\Aula05\Aula05\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
-C:\Prog_1\Aulas\Aula05\Aula05\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
-C:\Prog_1\Aulas\Aula05\Aula05\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
-C:\Prog_1\Aulas\Aula05\Aula05\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
-C:\Prog_1\Aulas\Aula05\Aula05\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
-C:\Prog_1\Aulas\Aula05\Aula05\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
-C:\Prog_1\Aulas\Aula05\Aula05\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
-C:\Prog_1\Aulas\Aula05\Aula05\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
-C:\Prog_1\Aulas\Aula05\Aula05\wwwroot\TextFiles\DelimitedFile.txt
-C:\Prog_1\Aulas\Aula05\Aula05\wwwroot\TextFiles\FixedFile.txt
-C:\Prog_1\Aulas\Aula05\Aula05\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
-C:\Prog_1\Aulas\Aula05\Aula05\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
-C:\Prog_1\Aulas\Aula05\Aula05\wwwroot\lib\jquery-validation\dist\jquery.validate.js
-C:\Prog_1\Aulas\Aula05\Aula05\wwwroot\lib\bootstrap\dist\js\bootstrap.js
-C:\Prog_1\Aulas\Aula05\Aula05\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
-C:\Prog_1\Aulas\Aula05\Aula05\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
-C:\Prog_1\Aulas\Aula05\Aula05\wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
-C:\Prog_1\Aulas\Aula05\Aula05\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
-C:\Prog_1\Aulas\Aula05\Aula05\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
-C:\Prog_1\Aulas\Aula05\Aula05\wwwroot\lib\jquery-validation\LICENSE.md
-C:\Prog_1\Aulas\Aula05\Aula05\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
-C:\Prog_1\Aulas\Aula05\Aula05\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
-C:\Prog_1\Aulas\Aula05\Aula05\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
-C:\Prog_1\Aulas\Aula05\Aula05\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
-C:\Prog_1\Aulas\Aula05\Aula05\wwwroot\lib\jquery-validation\dist\additional-methods.js
-C:\Prog_1\Aulas\Aula05\Aula05\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
-C:\Prog_1\Aulas\Aula05\Aula05\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
-C:\Prog_1\Aulas\Aula05\Aula05\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
-C:\Prog_1\Aulas\Aula05\Aula05\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
-C:\Prog_1\Aulas\Aula05\Aula05\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
-C:\Prog_1\Aulas\Aula05\Aula05\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
-C:\Prog_1\Aulas\Aula05\Aula05\wwwroot\lib\jquery\dist\jquery.min.js
-C:\Prog_1\Aulas\Aula05\Aula05\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
-C:\Prog_1\Aulas\Aula05\Aula05\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\wwwroot\lib\jquery\dist\jquery.slim.min.js
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\wwwroot\lib\jquery\dist\jquery.min.map
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\wwwroot\lib\jquery\dist\jquery.slim.min.map
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\wwwroot\favicon.ico
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\wwwroot\lib\jquery\LICENSE.txt
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\wwwroot\js\site.js
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\wwwroot\lib\jquery\dist\jquery.slim.js
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\wwwroot\lib\jquery\dist\jquery.js
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\wwwroot\css\site.css
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\wwwroot\TextFiles\DelimitedFile.txt
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\wwwroot\TextFiles\FixedFile.txt
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\wwwroot\lib\jquery-validation\LICENSE.md
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\wwwroot\lib\jquery-validation\dist\additional-methods.js
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\wwwroot\lib\jquery\dist\jquery.min.js
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+C:\Users\PICHAU\Desktop\Faculdade\Programação I\Prog_1\Aulas\Aula05\Aula05\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
